@@ -1,6 +1,6 @@
---- 
-title: "Making free books with RStudio’s RMarkdown & Bookdown"
-author: "Julie Lowndes"
+---
+title: "Einführung in das wissenschaftliche Arbeiten"
+author: "Alexander Max Bauer"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 # output: bookdown::gitbook
@@ -9,7 +9,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: openscapes/series
-description: "A mini bookdown tutorial book on how to make bookdown books."
+description: "Eine kurze Einführung in das wissenschaftliche Arbeiten für das Fach Philosophie an der Universität Oldenburg."
 ---
 
 # Welcome {#welcome}
