@@ -4,7 +4,7 @@ language:
     chapter_name: "Kapitel "
 rmd_files: [
   "index.Rmd",
-  "setup.Rmd",
-  "write.Rmd"]
+  "citation.Rmd",
+  literature.Rmd]
 delete_merged_file: true 
 output_dir: "docs"

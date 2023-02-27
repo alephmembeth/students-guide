@@ -7,9 +7,9 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Mini Bookdown Tutorial</a></li>
+        <li><a href="./">Wissenschaftliches Arbeiten</a></li>
       after: |
-        <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
+        <li><a href="https://bookdown.org" target="blank">Umgesetzt mit Bookdown</a></li>
     edit: https://github.com/jules32/bookdown-tutorial/edit/master/%s
     download: ["pdf"]
 #bookdown::pdf_book:
