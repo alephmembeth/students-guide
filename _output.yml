@@ -10,8 +10,8 @@ bookdown::gitbook:
         <li><a href="./">Wissenschaftliches Arbeiten</a></li>
       after: |
         <li><a href="https://bookdown.org" target="blank">Umgesetzt mit Bookdown</a></li>
-    edit: https://github.com/jules32/bookdown-tutorial/edit/master/%s
-    download: ["pdf"]
+#    edit: https://github.com/alephmembeth/students-guide/edit/master/%s
+#    download: ["pdf"]
 #bookdown::pdf_book:
 #  includes:
 #    in_header: _preamble.tex

@@ -6,5 +6,5 @@ rmd_files: [
   "index.Rmd",
   "citation.Rmd",
   literature.Rmd]
-delete_merged_file: true 
+delete_merged_file: true
 output_dir: "docs"
