@@ -10,3 +10,8 @@ write
 willkommen
 zitieren
 literatur
+allgemeine-einführungen
+allgemeine-einführungen-in-die-philosophie
+themenspezifische-einführungen
+personenspezifische-einführungen
+philosophische-fachzeitschriften

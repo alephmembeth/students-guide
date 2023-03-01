@@ -1,3 +1,5 @@
 # Literaturempfehlungen {#literatur}
 
-Lorem ipsum dolor...
+## Allgemeine Einführungen
+
+- Anzenbacher, Arno (2010): *[Einführung in die Philosophie](https://www.herder.de/theologie-pastoral/shop/p2/29364-einfuehrung-in-die-philosophie-kartonierte-ausgabe/)*. 7. Auflage. Freiburg im Breisgau: Herder.
