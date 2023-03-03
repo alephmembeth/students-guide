@@ -15,3 +15,5 @@ allgemeine-einführungen-in-die-philosophie
 themenspezifische-einführungen
 personenspezifische-einführungen
 philosophische-fachzeitschriften
+werkspezifische-einführungen
+einführungen
