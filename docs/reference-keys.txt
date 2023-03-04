@@ -17,3 +17,5 @@ personenspezifische-einführungen
 philosophische-fachzeitschriften
 werkspezifische-einführungen
 einführungen
+fachzeitschriften
+nachschlagewerke
