@@ -20,3 +20,6 @@ einführungen
 fachzeitschriften
 nachschlagewerke
 methodenspezifische-einführungen
+periodika
+allgemeine-periodika
+personenspezifische-periodika
