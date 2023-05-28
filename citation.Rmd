@@ -1,3 +1,26 @@
 # Zitieren {#zitieren}
 
-Lorem ipsum dolor...
+Wenn wir wissenschaftlich arbeiten, dann erfinden wir das Rad in der Regel nicht neu, sondern stützen uns auf die Arbeit anderer Forscher\*innen; das gilt in den Einzelwissenschaften ebenso wie in der Philosophie. Wir stehen dabei -- wie es Isaac Newton ausgedrückt hat -- auf den Schultern von Riesen: »If I have seen further it is by standing on the shoulders of Giants.«^[Turnbull, Herbert Westren (Hrsg.) (1959): _The Correspondence of Isaac Newton. Vol. 1. 1661--1675_. Cambridge: Cambridge University Press for the Royal Society. S. 416.] Ganz in diesem Sinne hat Carl Sagan einmal ganz treffend gesagt: »Science is a collaborative enterprise spanning the generations. When it permits us to see the far side of some new horizon, we remember those who prepared the way, seeing for them also.«^[Sagan, Carl; Druyan, Ann; Soter, Steven: _Cosmos. A Personal Voyage_. Dreizehnteilige Fernsehserie unter der Regie von Adrian Malone, produziert 1978 und 1979 von Gregory Andorfer und Rob McCain.]
+
+Wenn wir auf die Arbeit anderer Wissenschaftler\*innen bezug nehmen, dann machen wir das durch Zitate deutlich. Im Folgenden widmen wir uns deswegen dem Zitieren in wissenschaftlichen Arbeiten. Zunächst werfen wir einen Blick darauf, warum wir überhaupt zitieren (Abschnitt \@ref(zitierenwarum)), bevor wir uns genauer anschauen, worauf beim Zitieren zu achten ist (Abschnitt \@ref(zitierenworauf)). Anschließend gibt es einen Überblick über einige gängige Arten des Zitierens (Abschnitt \@ref(zitierenwelche)) und ein paar konkrete Beispiele (Abschnitt \@ref(zitierenwiezitieren)), ehe wir uns zum Abschluss anschauen, wie wir die von uns zitierte Literatur in einem Literaturverzeichnis zusammenstellen können (Abschnitt \@ref(zitierenwieverzeichnis)).
+
+## Warum zitieren wir? {#zitierenwarum}
+
+In einer Studienarbeit zitieren wir nicht, weil es eben irgendwie zum wissenschaftlichen Arbeiten dazugehört und unsere Prüfer\*innen das nun einmal von uns erwarten. Vielmehr ist der Umgang mit Quellen ein integraler Bestandteil wissenschaftlicher Arbeit, den wir bei Studienarbeiten einüben. Das Zitieren dient einer Reihe ganz konkreter Zwecke:
+
+ - Wissenschaft ist --  wie Carl Sagen es oben so schön ausgedrückt hat -- ein gemeinsames Unterfangen. Dazu gehört, dass Wissenschaftler\*innen ihre Arbeit gegenseitig kritisch prüfen. Die eigene Arbeit für andere möglichst einfach nachvollziehbar und nachprüfbar zu machen hilft damit nicht nur den Leser\*innen beim Verständnis, sondern ist auch für diesen Prozess gegenseitiger Überprüfung von Vorteil.
+ - Durch die Auswahl, wen man wie in seiner Arbeit zitiert, setzt man sich in Beziehung zu anderen Wissenschaftler\*innen; man verortet sich also selbst im Netz der Wissenschaft.
+ - Durch Zitate macht man deutlich, welche Gedanken oder Informationen von anderen übernommen und welche selbst hervorgebracht worden sind.
+
+Neben diesen -- vielleicht etwas idealisierten -- Punkten gibt es auch ganz pragmatische Aspekte, die oft mit dem gegenwärtigen wissenschaftlichen Publikationssystem zusammenhängen. Manchmal zitiert man bewusst eigene Arbeiten, die noch nicht publiziert sind, die sich aber auf dem Weg befinden (also zum Beispiel schon als Arbeitspapier vorliegen, gerade im Begutachtungsprozess sind oder schon angenommen aber noch nicht gedruckt wurden), um andere darauf aufmerksam zu machen. Oder man zitiert Autor\*innen, die zu einem ähnlichen Thema bereits publiziert haben, weil sie potentielle Begutachter\*innen sein könnten und man sich einen Vorteil davon erhofft, wenn sie ihre eigene Arbeit in einem Manuskript wiederfinden (beziehungsweise einen Nachteil befürchtet, wenn sie das nicht tun). Oder man möchte zeigen, dass man gut in das Profil einer Zeitschrift passt, bei der man sein Manuskript einreicht.
+^[Baird, Laura; Oppenheim, Charles (1994): »Do Citations Matter?«, _Journal of Information Science_ 20 (1), S. 2--15.]
+
+## Worauf ist beim Zitieren zu achten? {#zitierenworauf}
+
+## Welche Zitierweisen gibt es? {#zitierenwelche}
+
+Es gibt eine ganze Reihe unterschiedlicher Zitierweisen. Grob lässt sich unterscheiden zwischen solchen, die im Text zitieren, und solchen, die in Fußnoten zitieren.
+
+## Wie zitieren wir? {#zitierenwiezitieren}
+
+## Wie stellen wir ein Literaturverzeichnis zusammen? {#zitierenwieverzeichnis}
