@@ -39,3 +39,5 @@ zitierenwelche
 zitierenwie
 zitierenwiezitieren
 zitierenwieverzeichnis
+organisation
+pomodoros

@@ -5,6 +5,7 @@ language:
 rmd_files: [
   "index.Rmd",
   "citation.Rmd",
+  "organization.Rmd",
   literature.Rmd]
 delete_merged_file: true
 output_dir: "docs"
