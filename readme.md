@@ -1,3 +1,3 @@
 # Einführung in das wissenschaftliche Arbeiten
 
-This is a repository for a student’s guide titled [“Einführung in das wissenschaftliche Arbeiten”](https://alephmembeth.github.io/students-guide/) I’m currently working on. It is realized in R Markdown using the `bookdown` package (R version 4.2.2).
+This is a repository for a student’s guide (work in progress) titled [“Einführung in das wissenschaftliche Arbeiten”](https://alephmembeth.github.io/students-guide/). It is realized in _R Markdown_ using the `bookdown` package (_R_ version 4.2.2).
