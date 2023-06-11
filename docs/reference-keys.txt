@@ -35,3 +35,9 @@ pomodoros
 chicago-manual-of-style
 modern-language-association
 american-psychology-association
+chicago-manual-of-style-cmos
+modern-language-association-mla
+american-psychology-association-apa
+zitieren-in-fußnoten
+zitieren-mit-fuß--oder-endnoten
+bücher

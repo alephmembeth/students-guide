@@ -18,11 +18,36 @@ Neben diesen -- vielleicht etwas idealisierten -- Punkten gibt es auch ganz prag
 ## Worauf ist beim Zitieren zu achten? {#zitierenworauf}
 
 ## Wie zitieren wir? {#zitierenwiezitieren}
+Es gibt eine ganze Reihe unterschiedlicher Zitierweisen, von denen hier exemplarisch nur eine kleine Auswahl prominenter Vertreter vorgestellt werden soll. Grob lässt sich unterscheiden zwischen solchen, die in Klammern zitieren, und solchen, die in Fuß- oder Endnoten zitieren. Das [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) (CMOS) beispielsweise bietet Vorgaben für beide Varianten an. Die [Modern Language Association](https://www.mla.org/MLA-Style) oder die [American Psychology Association](https://apastyle.apa.org/) fokussieren sich auf das Zitieren in Klammern. Werfen wir im Folgenden der Reihe nach einen genaueren Blick auf diese Auswahl.
 
-Es gibt eine ganze Reihe unterschiedlicher Zitierweisen, von denen hier exemplarisch nur eine kleine Auswahl prominenter Vertreter vorgestellt werden soll. Grob lässt sich unterscheiden zwischen solchen, die in Klammern zitieren, und solchen, die in Fußnoten zitieren. Das [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) beispielsweise bietet Vorgaben für beide Varianten an. Die [Modern Language Association](https://www.mla.org/MLA-Style) oder die [American Psychology Association](https://apastyle.apa.org/) fokussieren sich auf das Zitieren in Klammern. Werfen wir im Folgenden der Reihe nach einen genaueren Blick auf diese Auswahl.
+### Chicago Manual of Style (CMOS)
+Seit 1906 erscheint bei der University of Chicago Press das _Chicago Manual of Style_ (CMOS), ein umfangreicher Styleguide für Amerikanisches Englisch, dessen 17. Auflage im Jahr 2017 erschienen ist.^[Vgl. The University of Chicago Press Editorial Staff (2017): _The Chicago Manual of Style. The Essential Guide for Writers, Editors, and Publishers_. 17. Auflage. Chicago und London: The University of Chicago Press.] Das Buch gliedert sich in drei Teile. Während sich der erste Teil verschiedenen Aspekten des Publikationsprozesses widmet, beleuchtet der zweite Teil unter anderem sprachliche und stilistische Aspekte. Der dritte Teil schließlich nimmt das Zitieren in den Blick. Wie oben angemerkt, liefert das CMOS sowohl Vorgaben für das Zitieren mit Fuß- oder Endnoten wie auch für das Zitieren mit Klammern. Im nächsten Abschnitt schauen wir uns zunächst die Variante mit Fuß- oder Endnoten an, im darauffolgenden Abschnitt dann die Variante mit Klammern.
 
-### Chicago Manual of Style
+#### Zitieren mit Fuß- oder Endnoten
+Beim Zitieren mit Fuß- oder Endnoten wird an derjenigen Stelle im Text, an der man auf eine Quelle verweisen möchte, eine hochgestellte Zahl gesetzt. Am Ende der Seite (im Fall von Fußnoten) oder am Ende des Textes (im Fall von Endnoten) taucht diese Zahl dann wieder auf, gefolgt von der Quellenangabe. Im Folgenden beschränken wir uns bei Erklärungen und Beispielen der Einfachheit halber auf Fußnoten; der Unterschied zu Endnoten besteht praktisch nur darin, wo die Quellenangaben plaziert werden, also am Seiten- oder am Textende.
 
-### Modern Language Association
+Wird eine Quelle das erste Mal in einem Text genannt, beinhaltet die Fußnote eine vollständige Quellenangabe. Wird an späterer Stelle im Text erneut auf diese Quelle verwiesen, taucht in der entsprechenden Fußnote nur noch eine Kurzfassung der Quellenangabe auf. Die Fußnoten eines Textes sind fortlaufend nummeriert und starten mit einer 1. Am Ende des Textes listet ein Literaturverzeichnis die einzelnen Quellen auf.
 
-### American Psychology Association
+Nachfolgend geben wir für die gängigen Arten von Quellen an, wie eine vollständige Quellenangabe, deren Kurzfassung sowie der entsprechende Eintrag im Literaturverzeichnis nach dem CMOS aussehen.^[Vgl. The University of Chicago Press Editorial Staff, _The Chicago Manual of Style_. Kap. 14.]
+
+##### Bücher
+**Vollständige Quellenangabe:**
+
+> 1. Zadie Smith, Swing Time (New York: Penguin Press, 2016), 315–16.
+> 2. Brian Grazer and Charles Fishman, A Curious Mind: The Secret to a Bigger Life (New York: Simon & Schuster, 2015), 12.
+
+**Gekürzte Quellenangabe:**
+
+> 3. Smith, Swing Time, 320.
+> 4. Grazer and Fishman, Curious Mind, 37.
+
+**Literaturverzeichnis:**
+
+> Grazer, Brian, and Charles Fishman. A Curious Mind: The Secret to a Bigger Life. New York: Simon & Schuster, 2015.
+>
+> Smith, Zadie. Swing Time. New York: Penguin Press, 2016.
+
+
+### Modern Language Association (MLA)
+
+### American Psychology Association (APA)
