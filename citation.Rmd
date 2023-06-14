@@ -28,25 +28,59 @@ Beim Zitieren mit Fuß- oder Endnoten wird an derjenigen Stelle im Text, an der 
 
 Wird eine Quelle das erste Mal in einem Text genannt, beinhaltet die Fußnote eine vollständige Quellenangabe. Wird an späterer Stelle im Text erneut auf diese Quelle verwiesen, taucht in der entsprechenden Fußnote nur noch eine Kurzfassung der Quellenangabe auf. Die Fußnoten eines Textes sind fortlaufend nummeriert und starten mit einer 1. Am Ende des Textes listet ein Literaturverzeichnis die einzelnen Quellen auf.
 
-Nachfolgend geben wir für die gängigen Arten von Quellen an, wie eine vollständige Quellenangabe, deren Kurzfassung sowie der entsprechende Eintrag im Literaturverzeichnis nach dem CMOS aussehen.^[Vgl. The University of Chicago Press Editorial Staff, _The Chicago Manual of Style_. Kap. 14.]
+Nachfolgend geben wir für die gängigen Arten von Quellen an, wie eine vollständige Quellenangabe, deren Kurzfassung sowie der entsprechende Eintrag im Literaturverzeichnis -- leicht angepasst für den deutschen Sprachraum -- nach dem CMOS aussehen kann.^[Vgl. The University of Chicago Press Editorial Staff, _The Chicago Manual of Style_. Kap. 14.]
 
-##### Bücher
+##### Monographien
+
 **Vollständige Quellenangabe:**
 
-> 1. Zadie Smith, Swing Time (New York: Penguin Press, 2016), 315–16.
-> 2. Brian Grazer and Charles Fishman, A Curious Mind: The Secret to a Bigger Life (New York: Simon & Schuster, 2015), 12.
+> 1. Alex Reinhart, _Statistics Done Wrong: Statistik richtig anwenden und gängige Fehler vermeiden_ (Frechen: mitp, 2016), 29.
+> 2. Justin Sytsma und Jonathan Livengood, _The Theory and Practice of Experimental Philosophy_ (Peterborough: Broadview, 2016), 150--58.
 
 **Gekürzte Quellenangabe:**
 
-> 3. Smith, Swing Time, 320.
-> 4. Grazer and Fishman, Curious Mind, 37.
+> 3. Reinhart, _Statistics Done Wrong_, 87.
+> 4. Sytsma und Livengood, _The Theory and Practice of Experimental Philosophy_, 169.
 
 **Literaturverzeichnis:**
 
-> Grazer, Brian, and Charles Fishman. A Curious Mind: The Secret to a Bigger Life. New York: Simon & Schuster, 2015.
+> Reinhart, Alex. _Statistics Done Wrong: Statistik richtig anwenden und gängige Fehler vermeiden_. Frechen: mitp, 2016.
 >
-> Smith, Zadie. Swing Time. New York: Penguin Press, 2016.
+> Sytsma, Justin und Jonathan Livengood. _The Theory and Practice of Experimental Philosophy_. Peterborough: Broadview, 2016.
 
+##### Sammelbände
+
+**Vollständige Quellenangabe:**
+
+> 1. Stefan Traub und Bernhard Kittel, Hrsg., _Need-Based Distributive Justice: An Interdisciplinary Perspective_ (Cham: Springer, 2020).
+
+**Gekürzte Quellenangabe:**
+
+> 2. Traub und Kittel, _Need-Based Distributive Justice_.
+
+**Literaturverzeichnis:**
+
+> Traub, Stefan und Bernhard Kittel, Hrsg. _Need-Based Distributive Justice: An Interdisciplinary Perspective_. Cham: Springer, 2020.
+
+
+
+##### Website
+
+Wenn man an einer Stelle im Text auf eine Website verweisen möchte, kann das wie nachfolgenden gemacht werden. Ist auf der Website angegeben, wann sie publiziert oder das letzte Mal aktualisiert wurde, kann dieses Datum in die Quellenangabe übernommen werden (Beispiel 1), andernfalls wird das Abrufdatum genannt (Beispiel 2).
+
+**Vollständige Quellenangabe:**
+
+> 1.
+> 2.
+
+
+##### Persönliche Korrespondenz
+
+Beruft man sich an einer Stelle im Text auf die eigene Korrespondenz mit einer anderen Person, kann man darauf wie folgt in einer Fußnote hinweisen. In das Literaturverzeichnis wird so etwas in der Regel nicht aufgenommen.
+
+**Vollständige Quellenangabe:**
+
+> 1. Guillermina Jasso, E-Mail an den Autor, 23. Mai 2020.
 
 ### Modern Language Association (MLA)
 

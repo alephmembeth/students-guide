@@ -41,3 +41,7 @@ american-psychology-association-apa
 zitieren-in-fußnoten
 zitieren-mit-fuß--oder-endnoten
 bücher
+monographien
+sammelbände
+persönliche-korrespondenz
+website
