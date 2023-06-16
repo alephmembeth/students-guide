@@ -63,24 +63,72 @@ Nachfolgend geben wir für die gängigen Arten von Quellen an, wie eine vollstä
 > Traub, Stefan und Bernhard Kittel, Hrsg. _Need-Based Distributive Justice: An Interdisciplinary Perspective_. Cham: Springer, 2020.
 
 
+##### Dissertation oder Abschlussarbeit
+Dissertationen oder Abschlussarbeiten werden von der Hochschule, an der sie verfasst worden sind, archiviert. Wenn sie außerdem als Monographie bei einem Verlag publiziert werden, lässt sich diese verlegte Fassung zitieren. Liegt nur die von der Hochschule archivierte Fassung vor, sei es gedruckt oder online, kann wie folgt auf sie verwiesen werden.
 
-##### Website
+Vollständige Quellenangabe:
 
-Wenn man an einer Stelle im Text auf eine Website verweisen möchte, kann das wie nachfolgenden gemacht werden. Ist auf der Website angegeben, wann sie publiziert oder das letzte Mal aktualisiert wurde, kann dieses Datum in die Quellenangabe übernommen werden (Beispiel 1), andernfalls wird das Abrufdatum genannt (Beispiel 2).
+> 1. Marc Wyszynski, »Der Einfluss von Framing, Medienpriming, Vorurteilen und Debiasing auf die Bewertung eines Betrugs an der Solidargemeinschaft« (Dissertation, Jacobs University Bremen, 2020).
 
-**Vollständige Quellenangabe:**
+Gekürzte Quellenangabe:
 
-> 1.
-> 2.
+> 2. Wyszynski, »Der Einfluss von Framing«
 
+Literaturverzeichnis:
+
+> Wyszynski, Marc. »Der Einfluss von Framing, Medienpriming, Vorurteilen und Debiasing auf die Bewertung eines Betrugs an der Solidargemeinschaft«. Dissertation, Jacobs University Bremen, 2020.
+
+##### Inhalte auf Websites
+
+Möchte man an einer Stelle im Text auf eine Website verweisen, kann das wie folgt geschehen. Ist auf der Website angegeben, wann sie veröffentlicht oder das letzte Mal aktualisiert wurde, kann dieses Datum in die Quellenangabe übernommen werden (Beispiel 1), andernfalls wird das Abrufdatum genannt (Beispiel 2).
+
+Vollständige Quellenangabe:
+
+> 1. Masaharu Mizumoto, »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«, The New Experimental Philosophy Blog, veröffentlicht am 14. Oktober 2022, https://xphiblog.com/a-prolegomenon-to-the-empirical-cross-linguistic-study-of-truth/.
+>
+> 2. »Kennzahlen«, Google Scholar, abgerufen am 26. Juni 2023.
+>
+> 3. Andrew Hasse, »Being 97«, YouTube, veröffentlicht am 14. Januar 2020, Video, 18:12, https://youtu.be/qX6NztnPU-4.
+
+Gekürzte Quellenangabe:
+
+> 4. Mizumoto, »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«.
+>
+> 5. Google, »Kennzahlen«.
+>
+> 6. Hasse, »Being 97«.
+
+Literaturverzeichnis:
+
+> Google. »Kennzahlen«. Abgerufen am 26. Juni 2023. https://scholar.google.de/citations?view_op=metrics_intro.
+>
+> Hasse, Andrew. »Being 97«. YouTube. Veröffentlicht am 14. Januar 2020. Video, 18:12. https://youtu.be/qX6NztnPU-4.
+>
+> Mizumoto, Masaharu. »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«. The New Experimental Philosophy Blog. Veröffentlicht am 14. Oktober 2022. https://xphiblog.com/a-prolegomenon-to-the-empirical-cross-linguistic-study-of-truth/.
+
+##### Inhalt in Sozialen Netzwerken
+
+Wenn man -- etwa zur Illustration eines Punktes -- auf etwas verweisen möchte, das eine Person in einem Sozialen Netzwerk geäußert hat, gibt es im Regelfall keinen Titel, den man für die Quellenangabe heranziehen kann. Das CMOS schlägt vor, stattdessen die ersten bis zu 160 Zeichen des Beitrags zu verwenden. Eine Aufnahme in das Literaturverzeichnis folgt für gewöhnlich nicht.
+
+Vollständige Quellenangabe:
+
+> 1. Donald J. Trump (\@realDonaldTrump), »Sorry losers and haters, but my I.Q. is one of the highest«, Twitter, Tweet (?), 9. Mai 2013, https://twitter.com/realDonaldTrump/status/332308211321425920.
+
+Gekürzte Quellenangabe:
+
+> 2. Trump, »Sorry losers and haters«.
 
 ##### Persönliche Korrespondenz
 
 Beruft man sich an einer Stelle im Text auf die eigene Korrespondenz mit einer anderen Person, kann man darauf wie folgt in einer Fußnote hinweisen. In das Literaturverzeichnis wird so etwas in der Regel nicht aufgenommen.
 
-**Vollständige Quellenangabe:**
+Vollständige Quellenangabe:
 
 > 1. Guillermina Jasso, E-Mail an den Autor, 23. Mai 2020.
+
+Gekürzte Quellenangabe:
+
+> 2. Jasso, E-Mail an den Autor.
 
 ### Modern Language Association (MLA)
 
