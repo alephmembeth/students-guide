@@ -63,12 +63,65 @@ Nachfolgend geben wir für die gängigen Arten von Quellen an, wie eine vollstä
 > Traub, Stefan und Bernhard Kittel, Hrsg. _Need-Based Distributive Justice: An Interdisciplinary Perspective_. Cham: Springer, 2020.
 
 
+##### Artikel in einer Fachzeitschrift
+
+
+
+##### Artikel in einer populären Zeitung oder Zeitschrift
+Bei Artikeln aus Zeitungen und Zeitschriften können die Seitenzahlen in der Fußnote genannt werden, fallen aber bei der Angabe im Literaturverzeichnis fort (Beispiel 1). Bezieht man sich auf die Online-Fassung eines Artikels, wird die URL mit angegeben (Beispiel 2).
+
+Vollständige Quellenangabe:
+
+> 1. Christian Endt, Nico Fried und Kristiana Ludwig, »Der lange Weg zur Normalität«, _Süddeutsche Zeitung_, 6. April 2020, 2. <!-- Ausgabe 81/2020 -->
+> 2. Björn Stephan, »Wer ist eigentlich meine verrückte Nachbarin?«, _Zeit Online_, 16. Februar 2017, https://www.zeit.de/2017/08/hamburg-st-pauli-eva-nachbarin-barbara-bar.
+
+Gekürzte Quellenangabe:
+
+> 3. Endt, Fried und Ludwig, »Der lange Weg zur Normalität«.
+> 4. Stephan, »Wer ist eigentlich meine verrückte Nachbarin?«.
+
+Literaturverzeichnis:
+
+> Endt, Christian, Nico Fried und Kristiana Ludwig. »Der lange Weg zur Normalität«. _Süddeutsche Zeitung_, 6. April 2020.
+> Stephan, Björn. »Wer ist eigentlich meine verrückte Nachbarin?«. _Zeit Online_, 16. Februar 2017, https://www.zeit.de/2017/08/hamburg-st-pauli-eva-nachbarin-barbara-bar.
+
+##### Buchbesprechung
+
+Neu erschienene Bücher werden immer wieder auch in populären Medien, etwa in überregionalen Zeitungen, besprochen. Solche Rezensionen lassen sich wie folgt zitieren.
+
+Vollständige Quellenangabe:
+
+> 1. Franz Schuh, »Zerstört Bankkonten! Christian Neuhäuser philosophiert über Reichtum«. Rezension zu _Wie reich darf man sein?_ von Christian Neuhäuser, _Die Zeit_, 22. August 2019. <!-- Ausgabe 35/2019, S. 38, https://www.zeit.de/2019/35/wie-reich-darf-man-sein-christian-neuhaeuser-reichtum -->
+
+Gekürzte Quellenangabe:
+
+> 2. Schuh, »Zerstört Bankkonten!«.
+
+Literaturverzeichnis:
+
+> Schuh, Franz. »Zerstört Bankkonten! Christian Neuhäuser philosophiert über Reichtum«. Rezension zu _Wie reich darf man sein?_ von Christian Neuhäuser. _Die Zeit_, 22. August 2019. <!-- Ausgabe 35/2019, S. 38, https://www.zeit.de/2019/35/wie-reich-darf-man-sein-christian-neuhaeuser-reichtum -->
+
+##### Interview
+Interviews, etwa im Rahmen einer Radiosendung oder eines Podcasts, können wie folgt zitiert werden.
+
+Vollständige Quellenangabe:
+
+> 1. Marina Schubarth, »Molotowcocktails statt Proben«, Interview von Susanne Burkhardt, _Rang 1_, Deutschlandfunk Kultur, 5. März 2022, Audio, 3:40, https://www.deutschlandfunkkultur.de/ukrainische-theatermacher-im-krieg-100.html.
+
+Gekürzte Quellenangabe:
+
+> 2. Schubarth, Interview.
+
+Literaturverzeichnis:
+
+> Schubarth, Marina. »Molotowcocktails statt Proben«. Interview von Susanne Burkhardt. _Rang 1_, Deutschlandfunk Kultur, 5. März 2022. Audio, 3:40. https://www.deutschlandfunkkultur.de/ukrainische-theatermacher-im-krieg-100.html.
+
 ##### Dissertation oder Abschlussarbeit
 Dissertationen oder Abschlussarbeiten werden von der Hochschule, an der sie verfasst worden sind, archiviert. Wenn sie außerdem als Monographie bei einem Verlag publiziert werden, lässt sich diese verlegte Fassung zitieren. Liegt nur die von der Hochschule archivierte Fassung vor, sei es gedruckt oder online, kann wie folgt auf sie verwiesen werden.
 
 Vollständige Quellenangabe:
 
-> 1. Marc Wyszynski, »Der Einfluss von Framing, Medienpriming, Vorurteilen und Debiasing auf die Bewertung eines Betrugs an der Solidargemeinschaft« (Dissertation, Jacobs University Bremen, 2020).
+> 1. Marc Wyszynski, »Der Einfluss von Framing, Medienpriming, Vorurteilen und Debiasing auf die Bewertung eines Betrugs an der Solidargemeinschaft« (Dissertation, Jacobs University Bremen, 2020). <!-- https://opus.constructor.university/frontdoor/index/index/docId/911 -->
 
 Gekürzte Quellenangabe:
 
@@ -112,7 +165,7 @@ Wenn man -- etwa zur Illustration eines Punktes -- auf etwas verweisen möchte, 
 
 Vollständige Quellenangabe:
 
-> 1. Donald J. Trump (\@realDonaldTrump), »Sorry losers and haters, but my I.Q. is one of the highest«, Twitter, Tweet (?), 9. Mai 2013, https://twitter.com/realDonaldTrump/status/332308211321425920.
+> 1. Donald J. Trump (\@realDonaldTrump), »Sorry losers and haters, but my I.Q. is one of the highest«, Twitter, 9. Mai 2013, https://twitter.com/realDonaldTrump/status/332308211321425920.
 
 Gekürzte Quellenangabe:
 
@@ -126,9 +179,25 @@ Vollständige Quellenangabe:
 
 > 1. Guillermina Jasso, E-Mail an den Autor, 23. Mai 2020.
 
-Gekürzte Quellenangabe:
+##### Kommentar
 
-> 2. Jasso, E-Mail an den Autor.
+Kommentare, zum Beispiel unter Videos auf YouTube (Beispiel 2), unter Beiträgen auf einem Blog oder unter Online-Artikeln einer Zeitung (Beispiel 4), Antworten auf Tweets (Beispiel 6) und ähnliches werden in Bezug auf die Kommentierte Quelle (Beispiele 1, 3 und 5) zitiert. Sie werden in aller Regel nicht in das Literaturverzeichnis aufgenommen.
+
+Manchmal ist nicht auf den ersten Blick ersichtlich, wann ein Kommentar verfasst wurde. Bei YouTube lässt sich das noch rekonstruierten, wenn der Kommentar erst wenige Tage alt ist und neben dem Nutzernamen beispielsweise »vor 2 Tagen« angezeigt wird. Bei längeren Zeiträumen, wenn etwa nur noch »vor 2 Jahren« neben dem Nutzernamen steht, werden diese Angaben allerdings unscharf und eine Rekonstruktion ist nicht mehr durch einfaches Rückrechnen möglich. Die genauen Daten liegen im Hintergrund aber nichtsdestotrotz vor und es gibt Möglichkeiten, sie sichtbar zu machen.^[Für Kommentare bei YouTube ermöglicht das zum Beispiel die Website https://hadzy.com/.]
+
+Vollständige Quellenangabe:
+
+> 1. Andrew Hasse, »Being 97«, YouTube, veröffentlicht am 14. Januar 2020, Video, 18:12, https://youtu.be/qX6NztnPU-4.
+>
+> 2. Bill Farley (\@billfarley9167), 27. Januar 2021, 4:04 Uhr, Kommentar zu Hasse, »Being 97«.
+>
+> 3. Masaharu Mizumoto, »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«, The New Experimental Philosophy Blog, veröffentlicht am 14. Oktober 2022, https://xphiblog.com/a-prolegomenon-to-the-empirical-cross-linguistic-study-of-truth/.
+>
+> 4. Izabela Skoczeń, 14. Oktober 2022, 21:07 Uhr, Kommentar zu Mizumoto, »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«.
+>
+> 5. Donald J. Trump (\@realDonaldTrump), »Sorry losers and haters, but my I.Q. is one of the highest«, Twitter, 9. Mai 2013, https://twitter.com/realDonaldTrump/status/332308211321425920.
+>
+> 6. Joyce Carol Oates (\@JoyceCarolOates), 8. November 2016, 20:24 Uhr, Kommentar zu Trump, »Sorry losers and haters«.
 
 ### Modern Language Association (MLA)
 

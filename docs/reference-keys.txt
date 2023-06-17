@@ -48,3 +48,10 @@ website
 inhalt-in-sozialen-netzwerken
 dissertation-oder-abschlussarbeit
 inhalte-auf-websites
+interviews
+buchbesprechung
+interview
+zeitungs--oder-zeitschriftenartikel
+kommentar
+artikel-in-einer-populären-zeitung-oder-zeitschrift
+artikel-in-einer-fachzeitschrift
