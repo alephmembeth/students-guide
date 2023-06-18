@@ -28,7 +28,7 @@ Beim Zitieren mit Fuß- oder Endnoten wird an derjenigen Stelle im Text, an der 
 
 Wird eine Quelle das erste Mal in einem Text genannt, beinhaltet die Fußnote eine vollständige Quellenangabe. Wird an späterer Stelle im Text erneut auf diese Quelle verwiesen, taucht in der entsprechenden Fußnote nur noch eine Kurzfassung der Quellenangabe auf. Die Fußnoten eines Textes sind fortlaufend nummeriert und starten mit einer 1. Am Ende des Textes listet ein Literaturverzeichnis die einzelnen Quellen auf.
 
-Nachfolgend geben wir für die gängigen Arten von Quellen an, wie eine vollständige Quellenangabe, deren Kurzfassung sowie der entsprechende Eintrag im Literaturverzeichnis -- leicht angepasst für den deutschen Sprachraum -- nach dem CMOS aussehen kann.^[Vgl. The University of Chicago Press Editorial Staff, _The Chicago Manual of Style_. Kap. 14.]
+Nachfolgend geben wir für die gängigen Arten von Quellen an, wie eine vollständige Quellenangabe, deren Kurzfassung sowie der entsprechende Eintrag im Literaturverzeichnis -- leicht angepasst für den deutschen Sprachraum^[Diese Anpassung betreffen Übersetzung (»Nr.« statt »No.«, ) sowie Interpunktion (Interpunktionszeichen außerhalb statt innerhalb von Anführungen, Wegfall des Oxford-Kommas).] -- nach dem CMOS aussehen kann.^[Vgl. The University of Chicago Press Editorial Staff, _The Chicago Manual of Style_. Kap. 14.]
 
 ##### Monographien
 
@@ -64,10 +64,42 @@ Nachfolgend geben wir für die gängigen Arten von Quellen an, wie eine vollstä
 
 
 ##### Artikel in einer Fachzeitschrift
+Bei Artikeln aus Fachzeitschriften, den im Forschungsalltag wahrscheinlich wichtigsten und am häufigsten genutzten Quellen, sieht das CMOS vor, dass Seitenzahlen in Fußnoten nur aufgenommen werden, wenn Sie auf eine spezifische Stelle hinweisen, etwa im Zuge eines Zitats (Beispiel 1). Die Seitenspanne, also von welcher bis zu welcher Seite ein Artikel in einer Fachzeitschrift reicht, wird nur im Literaturverzeichnis genannt. Bei Artikeln, die online abgerufen wurden, sieht das CMOS vor, URL oder DOI anzugeben (Beispiel 2), wobei DOI der URL vorzuziehen ist.
 
+Hat ein Artikel vier bis zehn Autor\*innen, wird in der Fußnote nur die erste Person genannt (Beispiel 3), während im Literaturverzeichnis auch die restlichen aufgeführt werden. Wenn ein Artikel elf oder mehr Autor\*innen hat, wird genauso verfahren, aber im Literaturverzeichnis werden nur die ersten sieben namentlich erwähnt (Beispiel 4).
 
+Vollständige Quellenangabe:
+
+> 1. Joshua Knobe, »Intentional Action and Side Effects in Ordinary Language«, _Analysis_ 63, Nr. 3 (Juli 2003): 192.
+>
+> 2. Jonathan Livengood und Justin Sytsma, »Actual Causation and Compositionality«, _Philosophy of Science_ 87, Nr. 1 (Januar 2020), https://doi.org/10.1086/706085.
+>
+> 3. Luke Buckland et al., »Testing the Motivational Strength of Positive and Negative Duty Arguments Regarding Global Poverty”, _Review of Philosophy and Psychology_ 13, Nr. 3 (Mai 2021): 707, https://doi.org/10.1007/s13164-021-00555-4.
+>
+> 4. Florian Cova et al., »Estimating the Reproducibility of Experimental Philosophy”, _Review of Philosophy and Psychology_ 12, Nr. 1 (März 2021), https://doi.org/10.1007/s13164-018-0400-9.
+
+Gekürzte Quellenangabe:
+
+> 5. Joshua Knobe, »Intentional Action«.
+>
+> 6. Livengood und Sytsma, »Actual Causation«.
+>
+> 7. Buckland et al., »Testing the Motivational Strength«.
+>
+> 8. Cova et al., »Estimating the Reproducibility«.
+
+Literaturverzeichnis:
+
+> Buckland, Luke, Matthew Lindauer, David Rodríguez-Arias und Carissa Véliz. »Testing the Motivational Strength of Positive and Negative Duty Arguments Regarding Global Poverty”. _Review of Philosophy and Psychology_ 13, Nr. 3 (Mai 2021): 463--73. https://doi.org/10.1007/s13164-021-00555-4.
+>
+> Cova, Florian, Brent Strickland, Angela Abatista, Aurélien Allard, James Andow, Mario Attie, James Beebe et al. »Estimating the Reproducibility of Experimental Philosophy”. _Review of Philosophy and Psychology_ 12, Nr. 1 (März 2021): 9--44. https://doi.org/10.1007/s13164-018-0400-9.
+>
+> Knobe, Joshua. »Intentional Action and Side Effects in Ordinary Language«. _Analysis_ 63, Nr. 3 (Juli 2003): 190--94.
+>
+> Livengood, Jonathan, und Justin Sytsma. »Actual Causation and Compositionality«. _Philosophy of Science_ 87, Nr. 1 (Januar 2020): 43--69. https://doi.org/10.1086/706085.
 
 ##### Artikel in einer populären Zeitung oder Zeitschrift
+
 Bei Artikeln aus Zeitungen und Zeitschriften können die Seitenzahlen in der Fußnote genannt werden, fallen aber bei der Angabe im Literaturverzeichnis fort (Beispiel 1). Bezieht man sich auf die Online-Fassung eines Artikels, wird die URL mit angegeben (Beispiel 2).
 
 Vollständige Quellenangabe:
