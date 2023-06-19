@@ -30,38 +30,67 @@ Wird eine Quelle das erste Mal in einem Text genannt, beinhaltet die Fußnote ei
 
 Nachfolgend geben wir für die gängigen Arten von Quellen an, wie eine vollständige Quellenangabe, deren Kurzfassung sowie der entsprechende Eintrag im Literaturverzeichnis -- leicht angepasst für den deutschen Sprachraum^[Diese Anpassung betreffen Übersetzung (»Nr.« statt »No.«, ) sowie Interpunktion (Interpunktionszeichen außerhalb statt innerhalb von Anführungen, Wegfall des Oxford-Kommas).] -- nach dem CMOS aussehen kann.^[Vgl. The University of Chicago Press Editorial Staff, _The Chicago Manual of Style_. Kap. 14.]
 
-##### Monographien
+##### Monographie
 
-**Vollständige Quellenangabe:**
+Vollständige Quellenangabe:
 
 > 1. Alex Reinhart, _Statistics Done Wrong: Statistik richtig anwenden und gängige Fehler vermeiden_ (Frechen: mitp, 2016), 29.
 > 2. Justin Sytsma und Jonathan Livengood, _The Theory and Practice of Experimental Philosophy_ (Peterborough: Broadview, 2016), 150--58.
 
-**Gekürzte Quellenangabe:**
+Gekürzte Quellenangabe:
 
 > 3. Reinhart, _Statistics Done Wrong_, 87.
 > 4. Sytsma und Livengood, _The Theory and Practice of Experimental Philosophy_, 169.
 
-**Literaturverzeichnis:**
+Literaturverzeichnis:
 
 > Reinhart, Alex. _Statistics Done Wrong: Statistik richtig anwenden und gängige Fehler vermeiden_. Frechen: mitp, 2016.
 >
-> Sytsma, Justin und Jonathan Livengood. _The Theory and Practice of Experimental Philosophy_. Peterborough: Broadview, 2016.
+> Sytsma, Justin, und Jonathan Livengood. _The Theory and Practice of Experimental Philosophy_. Peterborough: Broadview, 2016.
 
-##### Sammelbände
+##### Sammelband
 
-**Vollständige Quellenangabe:**
+Vollständige Quellenangabe:
 
 > 1. Stefan Traub und Bernhard Kittel, Hrsg., _Need-Based Distributive Justice: An Interdisciplinary Perspective_ (Cham: Springer, 2020).
 
-**Gekürzte Quellenangabe:**
+Gekürzte Quellenangabe:
 
 > 2. Traub und Kittel, _Need-Based Distributive Justice_.
 
-**Literaturverzeichnis:**
+Literaturverzeichnis:
 
-> Traub, Stefan und Bernhard Kittel, Hrsg. _Need-Based Distributive Justice: An Interdisciplinary Perspective_. Cham: Springer, 2020.
+> Traub, Stefan, und Bernhard Kittel, Hrsg. _Need-Based Distributive Justice: An Interdisciplinary Perspective_. Cham: Springer, 2020.
 
+#### Beitrag in einem Sammelband
+Bei Beiträgen aus Sammelbänden werden Seitenzahlen nur dann in Fußnoten aufgenommen, wenn Sie auf eine spezifische Stelle hinweisen (Beispiel 1). Die Seitenspanne, also von welcher bis zu welcher Seite ein Beitrag in einem Sammelband reicht, wird im Literaturverzeichnis genannt.
+
+Vollständige Quellenangabe:
+
+> 1. Mark Siebel und Thomas Schramme, »Need-Based Justice from the Perspective of Philosophy«, in _Need-Based Distributive Justice: An Interdisciplinary Perspective:, hrsg. Stefan Traub und Bernhard Kittel (Cham: Springer, 2020), 24.
+
+Gekürzte Quellenangabe:
+
+> 2. Siebel und Schramme, »Need-Based Justice«.
+
+Literaturverzeichnis:
+
+> Siebel, Mark, und Thomas Schramme. »Need-Based Justice from the Perspective of Philosophy«. In _Need-Based Distributive Justice: An Interdisciplinary Perspective:, herausgegeben von Stefan Traub and Bernhard Kittel, 21--58. Cham: Springer, 2020.
+
+##### Übersetztes Buch
+Es wird immer mal wieder vorkommen, dass wir auf ein Buch stoßen, dessen Originalsprache wir nicht beherrschen. In diesem Fall kommen wir nicht um Übersetzungen herum, wenn das Buch für unsere Arbeit relevant ist und die Zeit für ein umfassendes Fremdsprachenstudium fehlt. Aber auch, wenn wir das Original zu lesen im Stande sind, kann der Blick in eine Übersetzung spannend oder hilfreich sein. Zitiert man solch eine übersetzte Fassung, dann gibt man auch an, wer die Übersetzung besorgt hat.
+
+Vollständige Quellenangabe:
+
+> 1. David Miller, _Grundsätze sozialer Gerechtigkeit_, übers. Ulrike Berger (Frankfurt: Campus, 2008).
+
+Gekürzte Quellenangabe:
+
+> 2. Miller, _Grundsätze sozialer Gerechtigkeit_.
+
+Literaturverzeichnis:
+
+> Miller, David. _Grundsätze sozialer Gerechtigkeit_. Übersetzt von Ulrike Berger. Frankfurt: Campus, 2008.
 
 ##### Artikel in einer Fachzeitschrift
 Bei Artikeln aus Fachzeitschriften, den im Forschungsalltag wahrscheinlich wichtigsten und am häufigsten genutzten Quellen, sieht das CMOS vor, dass Seitenzahlen in Fußnoten nur aufgenommen werden, wenn Sie auf eine spezifische Stelle hinweisen, etwa im Zuge eines Zitats (Beispiel 1). Die Seitenspanne, also von welcher bis zu welcher Seite ein Artikel in einer Fachzeitschrift reicht, wird nur im Literaturverzeichnis genannt. Bei Artikeln, die online abgerufen wurden, sieht das CMOS vor, URL oder DOI anzugeben (Beispiel 2), wobei DOI der URL vorzuziehen ist.
@@ -71,21 +100,15 @@ Hat ein Artikel vier bis zehn Autor\*innen, wird in der Fußnote nur die erste P
 Vollständige Quellenangabe:
 
 > 1. Joshua Knobe, »Intentional Action and Side Effects in Ordinary Language«, _Analysis_ 63, Nr. 3 (Juli 2003): 192.
->
 > 2. Jonathan Livengood und Justin Sytsma, »Actual Causation and Compositionality«, _Philosophy of Science_ 87, Nr. 1 (Januar 2020), https://doi.org/10.1086/706085.
->
 > 3. Luke Buckland et al., »Testing the Motivational Strength of Positive and Negative Duty Arguments Regarding Global Poverty”, _Review of Philosophy and Psychology_ 13, Nr. 3 (Mai 2021): 707, https://doi.org/10.1007/s13164-021-00555-4.
->
 > 4. Florian Cova et al., »Estimating the Reproducibility of Experimental Philosophy”, _Review of Philosophy and Psychology_ 12, Nr. 1 (März 2021), https://doi.org/10.1007/s13164-018-0400-9.
 
 Gekürzte Quellenangabe:
 
 > 5. Joshua Knobe, »Intentional Action«.
->
 > 6. Livengood und Sytsma, »Actual Causation«.
->
 > 7. Buckland et al., »Testing the Motivational Strength«.
->
 > 8. Cova et al., »Estimating the Reproducibility«.
 
 Literaturverzeichnis:
@@ -115,6 +138,7 @@ Gekürzte Quellenangabe:
 Literaturverzeichnis:
 
 > Endt, Christian, Nico Fried und Kristiana Ludwig. »Der lange Weg zur Normalität«. _Süddeutsche Zeitung_, 6. April 2020.
+>
 > Stephan, Björn. »Wer ist eigentlich meine verrückte Nachbarin?«. _Zeit Online_, 16. Februar 2017, https://www.zeit.de/2017/08/hamburg-st-pauli-eva-nachbarin-barbara-bar.
 
 ##### Buchbesprechung
@@ -170,17 +194,13 @@ Möchte man an einer Stelle im Text auf eine Website verweisen, kann das wie fol
 Vollständige Quellenangabe:
 
 > 1. Masaharu Mizumoto, »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«, The New Experimental Philosophy Blog, veröffentlicht am 14. Oktober 2022, https://xphiblog.com/a-prolegomenon-to-the-empirical-cross-linguistic-study-of-truth/.
->
 > 2. »Kennzahlen«, Google Scholar, abgerufen am 26. Juni 2023.
->
 > 3. Andrew Hasse, »Being 97«, YouTube, veröffentlicht am 14. Januar 2020, Video, 18:12, https://youtu.be/qX6NztnPU-4.
 
 Gekürzte Quellenangabe:
 
 > 4. Mizumoto, »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«.
->
 > 5. Google, »Kennzahlen«.
->
 > 6. Hasse, »Being 97«.
 
 Literaturverzeichnis:
@@ -220,15 +240,10 @@ Manchmal ist nicht auf den ersten Blick ersichtlich, wann ein Kommentar verfasst
 Vollständige Quellenangabe:
 
 > 1. Andrew Hasse, »Being 97«, YouTube, veröffentlicht am 14. Januar 2020, Video, 18:12, https://youtu.be/qX6NztnPU-4.
->
 > 2. Bill Farley (\@billfarley9167), 27. Januar 2021, 4:04 Uhr, Kommentar zu Hasse, »Being 97«.
->
 > 3. Masaharu Mizumoto, »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«, The New Experimental Philosophy Blog, veröffentlicht am 14. Oktober 2022, https://xphiblog.com/a-prolegomenon-to-the-empirical-cross-linguistic-study-of-truth/.
->
 > 4. Izabela Skoczeń, 14. Oktober 2022, 21:07 Uhr, Kommentar zu Mizumoto, »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«.
->
 > 5. Donald J. Trump (\@realDonaldTrump), »Sorry losers and haters, but my I.Q. is one of the highest«, Twitter, 9. Mai 2013, https://twitter.com/realDonaldTrump/status/332308211321425920.
->
 > 6. Joyce Carol Oates (\@JoyceCarolOates), 8. November 2016, 20:24 Uhr, Kommentar zu Trump, »Sorry losers and haters«.
 
 ### Modern Language Association (MLA)

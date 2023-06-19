@@ -55,3 +55,7 @@ zeitungs--oder-zeitschriftenartikel
 kommentar
 artikel-in-einer-populären-zeitung-oder-zeitschrift
 artikel-in-einer-fachzeitschrift
+monographie
+sammelband
+beitrag-in-einem-sammelband
+übersetztes-buch
