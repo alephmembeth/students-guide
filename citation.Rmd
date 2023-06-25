@@ -17,7 +17,17 @@ Außerdem sanktioniert es die wissenschaftliche Gemeinschaft, wenn man beim Ziti
 
 
 ## Worauf beim Zitieren zu achten ist {#zitierenworauf}
-Es gibt eine Reihe von Punkten, die beim Zitieren wichtig sind. Es sind zum Beispiel nicht alle Quellen gleich. Hier unterscheiden wir zwischen zitierfähigen und nicht zitierfähigen Quellen. Dabei kann die Zitierfähigkeit einer Quelle auch vom Kontext abhängen. Soll die Quelle eine belgende Funktion haben, würde sich ein Artikel aus der BILD-Zeitung nicht eignen. Beschäftigt sich eine Arbeit aber beispielsweise mit der publizistischen Praxis der BILD-Zeitung, kann ein Artikel aus der Bild-Zeitung eine illustrative Funktion erfüllen und ihren berechtigten Platz in einer Arbeit haben. Auf jeden Fall soll die Quelle »vom Leser nachvollzogen und überprüft werden«^[Wolfgang Lück und Michael Henke, _Technik des wissenschaftlichen Arbeitens: Seminararbeit, Diplomarbeit, Dissertation_, 10. Aufl. (München: Oldenbourg, 2009), 67.] können.
+Es gibt eine Reihe von Punkten, die beim Zitieren wichtig sind. Zunächst einmal sind beispielsweise nicht alle Quellen gleich. Hier unterscheiden wir zwischen zitierfähigen und nicht zitierfähigen Quellen. Dabei kann die Zitierfähigkeit einer Quelle auch vom Kontext abhängen. Soll die Quelle beispielsweise eine wissenschaftliche Aussage belegen, würde sich ein Artikel aus der BILD-Zeitung nicht eignen. Beschäftigt sich eine Arbeit aber beispielsweise mit der publizistischen Praxis der BILD-Zeitung, kann ein Artikel aus der Bild-Zeitung eine illustrative Funktion erfüllen und ihren berechtigten Platz in einer Arbeit haben. Auf jeden Fall soll die Quelle »vom Leser nachvollzogen und überprüft werden«^[Wolfgang Lück und Michael Henke, _Technik des wissenschaftlichen Arbeitens: Seminararbeit, Diplomarbeit, Dissertation_, 10. Aufl. (München: Oldenbourg, 2009), 67.] können, sie soll also ihrer Funktion im Text _angemessen_ und auf die ein oder andere Weise _zugänglich_ sein.
+
+Liegt eine geeignete Quelle vor, gibt es verschiedene Möglichkeiten, aus ihr zu zitieren oder auf sie zu verweisen.
+
+<!-- Bei einem wörtlichen Zitiat
+
+Auslassungen, Anpassungen oder anmerkungen bei direkten Zitatten 
+
+Bei einem indirekten Zitat gibt man etwas paraphrasiert wieder
+
+Ein bloßer Verweis -->
 
 
 ## Wie wir zitieren {#zitierenwiezitieren}
