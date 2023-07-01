@@ -1,5 +1,5 @@
 # Zitieren {#zitieren}
-Wenn wir wissenschaftlich arbeiten, dann erfinden wir das Rad in der Regel nicht neu, sondern stützen uns auf die Arbeit anderer Forscher\*innen; das gilt in den Einzelwissenschaften ebenso wie in der Philosophie. Wir stehen dabei -- wie es Isaac Newton ausgedrückt hat -- auf den Schultern von Riesen: »If I have seen further it is by standing on the shoulders of Giants.«^[Turnbull, Herbert Westren (Hrsg.) (1959): _The Correspondence of Isaac Newton. Vol. 1. 1661--1675_. Cambridge: Cambridge University Press for the Royal Society. S. 416.] Ganz in diesem Sinne hat Carl Sagan einige hundert Jahre später einmal ganz treffend gesagt: »Science is a collaborative enterprise spanning the generations. When it permits us to see the far side of some new horizon, we remember those who prepared the way, seeing for them also.«^[Sagan, Carl; Druyan, Ann; Soter, Steven: _Cosmos. A Personal Voyage_. Dreizehnteilige Fernsehserie unter der Regie von Adrian Malone, produziert 1978 und 1979 von Gregory Andorfer und Rob McCain.]
+Wenn wir wissenschaftlich arbeiten, dann erfinden wir das Rad in der Regel nicht neu, sondern stützen uns auf die Arbeit anderer Forscher\*innen; das gilt in den Einzelwissenschaften ebenso wie in der Philosophie. Wir stehen dabei -- wie es Isaac Newton ausgedrückt hat -- auf den Schultern von Riesen: »If I have seen further it is by standing on the shoulders of Giants« [@turnbull_correspondence_1959, S. 416]. Ganz in diesem Sinne hat Carl Sagan einige hundert Jahre später einmal ganz treffend gesagt: »Science is a collaborative enterprise spanning the generations. When it permits us to see the far side of some new horizon, we remember those who prepared the way, seeing for them also« [@sagan_cosmos_1980].
 
 Wenn wir in einem Text auf die Arbeit anderer Wissenschaftler\*innen Bezug nehmen, dann machen wir das durch Zitate deutlich. Im Folgenden widmen wir uns deswegen dem Zitieren in wissenschaftlichen Arbeiten. Zunächst werfen wir einen Blick darauf, warum wir überhaupt zitieren (Abschnitt \@ref(zitierenwarum)), bevor wir uns genauer anschauen, worauf beim Zitieren zu achten ist (Abschnitt \@ref(zitierenworauf)). Anschließend gibt es einen Überblick über einige gängige Arten des Zitierens mit konkreten Beispielen (Abschnitt \@ref(zitierenwelche)).
 
@@ -27,7 +27,11 @@ Wenn man den Wortlaut einer Quelle besonders treffend findet oder wenn er für d
 
 > Odo Marquard stellt sich selbst in die Tradition der Skepsis. In seiner Dankesrede zum Erhalt des Sigmund-Freud-Preises heißt es entsprechend: »Ich revanchiere mich -- Revance heißt Rache -- hier durch einige Bemerkungen über die Skeptiker, zu denen ich gehöre, also dadurch, daß ich Farbe bekenne: Tarnfarbe« (Marquard 1986a, S. 6).
 
-Wörtliche Zitate werden buchstaben- und zeichengetreu wiedergegeben, das heißt, dass auch orthographische oder interpunktionsbezogene Eigenheiten beibehalten werden. Hier gibt es eine Ausnahmen: Wenn im Zitat selbst Anführungszeichen enthalten sind, werden diese an den eigenen Stil angepasst, man mischt also nicht verschiedene typographische Arten von Anführungszeichen. Steht das Zitat in Anführungszeichen, wandelt man die im Zitat selbst enthaltenen Anführungszeichen außerdem in halbe Anführungszeichen um. Das kann dann beispielsweise so aussehen:
+Wörtliche Zitate werden buchstaben- und zeichengetreu wiedergegeben, das heißt, dass auch orthographische oder interpunktionsbezogene Eigenheiten -- auch Fehler -- beibehalten werden. Möchte man darauf hinweisen, dass eine solche Eigenheit aus dem Original stammt und sich nicht durch falsches Zitieren ergeben hat, kann man hinter der betreffenden Stelle den Hinweis »sic« (»sic erat scriptum«,»so stand es geschrieben«) anbringen. Das kann dann beispielsweise so aussehen:
+
+> »Then a distribution is just if the ratio between what the persons receives [sic] and what they should receive is the same for all of them« (Siebel und Schramme, S. 39).
+
+Von dieser Pflicht zur zeichengetreuen Wiedergabe gibt es eine Ausnahmen: Wenn im Zitat selbst Anführungszeichen enthalten sind, werden diese an den eigenen Stil angepasst, man mischt also nicht verschiedene typographische Arten von Anführungszeichen. Steht das Zitat in Anführungszeichen, wandelt man die im Zitat selbst enthaltenen Anführungszeichen außerdem in halbe Anführungszeichen um. Das kann dann beispielsweise so aussehen:
 
 > Marquard requriert hier auf Plotin: »Ich meine, beim Rahmenthema ›Sinn im Horizont der Wissenschaft‹ kommt man als Philosoph ganz gut durch mit dieser -- Sie haben das sofort bemerkt -- Variante einer Formulierung von Wilhelm Busch, die da lautet: ›Das Gute, dieser Satz steht fest, ist stets das Böse, das man läßt‹« (Marquard 1986b, S. 33).
 
@@ -39,7 +43,7 @@ Finden sich an einer Stelle, die man wörtlich zitiert, Hervorhebungen, beispiel
 
 Es kann auch vorkommen, das man selbst etwas in einem Zitat hervorheben möchte. In diesem Fall bringt man einen ähnlichen Hinweis an, oft unter Verwendung der eigenen Initialen. Das kann dann beispielsweise so aussehen:
 
-> Wobei Marquard auf drastische Formulierungen zurückgreift, etwas wenn er schreibt: »Sie antworten auf das Trauma des hermeneutischen _Bürgerkriegs_« (Marquard 1986d, S. 109; Hervorh. A.M.B.).
+> Wobei Marquard auf drastische Formulierungen zurückgreift, etwas wenn er schreibt: »Sie antworten auf das _Trauma_ des hermeneutischen _Bürgerkriegs_« (Marquard 1986d, S. 109; Hervorh. A.M.B.).
 
 <!--
 Auslassungen, Anpassungen oder anmerkungen bei direkten Zitatten 
