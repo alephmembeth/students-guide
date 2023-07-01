@@ -17,18 +17,37 @@ Außerdem sanktioniert es die wissenschaftliche Gemeinschaft, wenn man beim Ziti
 
 
 ## Worauf beim Zitieren zu achten ist {#zitierenworauf}
-Es gibt eine Reihe von Punkten, die beim Zitieren wichtig sind. Zunächst einmal sind beispielsweise nicht alle Quellen gleich. Hier unterscheiden wir zwischen zitierfähigen und nicht zitierfähigen Quellen. Dabei kann die Zitierfähigkeit einer Quelle auch vom Kontext abhängen. Soll die Quelle beispielsweise eine wissenschaftliche Aussage belegen, würde sich ein Artikel aus der BILD-Zeitung nicht eignen. Beschäftigt sich eine Arbeit aber beispielsweise mit der publizistischen Praxis der BILD-Zeitung, kann ein Artikel aus der Bild-Zeitung eine illustrative Funktion erfüllen und ihren berechtigten Platz in einer Arbeit haben. Auf jeden Fall soll die Quelle »vom Leser nachvollzogen und überprüft werden«^[Wolfgang Lück und Michael Henke, _Technik des wissenschaftlichen Arbeitens: Seminararbeit, Diplomarbeit, Dissertation_, 10. Aufl. (München: Oldenbourg, 2009), 67.] können, sie soll also ihrer Funktion im Text _angemessen_ und auf die ein oder andere Weise _zugänglich_ sein.
+Es gibt eine Reihe von Punkten, die beim Zitieren wichtig sind. Allgemeinwissen oder Grundlagenwissen aus dem eigenen Fach zählen beispielsweise in der Regel nicht als belegwürdig. Als Daumenregel kann man sich hier an Franck (2004: 296) orientieren, bei dem es heißt: „Zitate sollten nicht peinlich sein“; Dass die Erde keine Scheibe ist oder dass Kant aus Königsberg stammt, kann ohne Quelle erwähnt werden.
+
+Außerdem sind nicht alle Quellen gleich. Hier unterscheiden wir zwischen zitierfähigen und nicht zitierfähigen Quellen. Dabei kann die Verwendbarkeit einer Quelle auch vom Kontext abhängen. Soll die Quelle beispielsweise eine wissenschaftliche Aussage belegen, würde sich ein Artikel aus der BILD-Zeitung nicht eignen. Beschäftigt sich eine Arbeit aber beispielsweise mit der publizistischen Praxis der BILD-Zeitung, kann ein Artikel aus der Bild-Zeitung eine illustrative Funktion erfüllen und ihren berechtigten Platz in einer Arbeit haben. In jedem Fall aber soll die Quelle »vom Leser nachvollzogen und überprüft werden«^[Wolfgang Lück und Michael Henke, _Technik des wissenschaftlichen Arbeitens: Seminararbeit, Diplomarbeit, Dissertation_, 10. Aufl. (München: Oldenbourg, 2009), 67.] können, sie soll also ihrer Funktion im Text _angemessen_ und auf die ein oder andere Weise _zugänglich_ sein.^[Dementsprechend schränken Rossig und Prätsch (2005, S. 122) ein: »Von Dritten kaum zu beschaffende Quellen wie mündliche Auskünfte, nicht veröffentlichte Hausarbeiten, Studienarbeiten und Diplomarbeiten oder Vorlesungs-Skripte sind damit nicht oder nur in Sonderfällen zitierfähig.“ Ähnlich auch Lück und Henke (S. 67): »Informationen aus Gesprächen oder Diskussionen sind nicht zitierfähig, da sie nicht nachvollzogen werden können.« Auf der anderen Seite gilt: »Zitierfähig ist grundsätzlich nur das, was vom Leser nachvollzogen und überprüft werden kann: Worte, Teilsätze (Passagen) und Sätze aus wissenschaftlich anerkannter Literatur, aber auch Gesetzestexte, Verordnungen, Richtlinien, Kommentare, veröffentlichte Statistiken, Berichte von Verbänden, Banken.« (ebd.)]
 
 Liegt eine geeignete Quelle vor, gibt es verschiedene Möglichkeiten, aus ihr zu zitieren oder auf sie zu verweisen.
 
-<!-- Bei einem wörtlichen Zitiat
+Wenn man den Wortlaut einer Quelle besonders treffend findet oder wenn er für die eigene Arbeit wichtig ist, kann man ihn wörtlich zitieren, wobei man mit solchen wörtlichen Zitiaten eher sparsam umgehen sollte. Das wörtliche Zitat hat in einem inhaltlichen Zusammenhang zu dem voran- oder nachgehenden Text zu stehen, wird durch die Verwendung von Anführungszeichen kenntlich und durch eine Quellenangabe nachvollziehbar gemacht. Das kann dann beispielsweise so aussehen:
 
+> Odo Marquard stellt sich selbst in die Tradition der Skepsis. In seiner Dankesrede zum Erhalt des Sigmund-Freud-Preises heißt es entsprechend: »Ich revanchiere mich -- Revance heißt Rache -- hier durch einige Bemerkungen über die Skeptiker, zu denen ich gehöre, also dadurch, daß ich Farbe bekenne: Tarnfarbe« (Marquard 1986a, S. 6).
+
+Wörtliche Zitate werden buchstaben- und zeichengetreu wiedergegeben, das heißt, dass auch orthographische oder interpunktionsbezogene Eigenheiten beibehalten werden. Hier gibt es eine Ausnahmen: Wenn im Zitat selbst Anführungszeichen enthalten sind, werden diese an den eigenen Stil angepasst, man mischt also nicht verschiedene typographische Arten von Anführungszeichen. Steht das Zitat in Anführungszeichen, wandelt man die im Zitat selbst enthaltenen Anführungszeichen außerdem in halbe Anführungszeichen um. Das kann dann beispielsweise so aussehen:
+
+> Marquard requriert hier auf Plotin: »Ich meine, beim Rahmenthema ›Sinn im Horizont der Wissenschaft‹ kommt man als Philosoph ganz gut durch mit dieser -- Sie haben das sofort bemerkt -- Variante einer Formulierung von Wilhelm Busch, die da lautet: ›Das Gute, dieser Satz steht fest, ist stets das Böse, das man läßt‹« (Marquard 1986b, S. 33).
+
+Überschreitet ein wörtliches Zitat eine gewisse Länge -- oft spricht man von drei Zeilen --, setzt man es als sogenanntes Blockzitat vom übrigen Text ab. Es steht dann als eigener Absatz für sich. In der Regel wird dieser Absatz dann am linken -- manchmal auch am rechten -- Rand eingerückt. Oft ist auch die Schrift kleiner als im regulären Text. Bei solchen Zitaten können die Anführungszeichen an Anfang und Ende wegfallen. Sollten im Zitat selbst Anführungszeichen enthalten sein, müssen diese dann nicht in halbe Anführungszeichen umgewandelt werden.
+
+Finden sich an einer Stelle, die man wörtlich zitiert, Hervorhebungen, beispielsweise durch Fettdruck, Kursivierung, Kapitälchen oder Unterstreichungen, werden diese in der Regel auch übernommen, können aber an den eigenen Stil angepasst werden. Oft findet man an solchen Stellen einen Hinweis wie »Hervorh. i. O.« (»Hervorhebung im Original«). Das kann dann beispielsweise so aussehen:
+
+> Als vierte Forderung führt Marquard an: »Man muß -- gerade auch gegenwärtig -- ablassen vom _Unsinn der Bindung der Lebensbejahung an den absoluten Sinnbeweis_« (Marquard 1986c, S. 52; Hervorh. i.O.).
+
+Es kann auch vorkommen, das man selbst etwas in einem Zitat hervorheben möchte. In diesem Fall bringt man einen ähnlichen Hinweis an, oft unter Verwendung der eigenen Initialen. Das kann dann beispielsweise so aussehen:
+
+> Wobei Marquard auf drastische Formulierungen zurückgreift, etwas wenn er schreibt: »Sie antworten auf das Trauma des hermeneutischen _Bürgerkriegs_« (Marquard 1986d, S. 109; Hervorh. A.M.B.).
+
+<!--
 Auslassungen, Anpassungen oder anmerkungen bei direkten Zitatten 
 
 Bei einem indirekten Zitat gibt man etwas paraphrasiert wieder
 
-Ein bloßer Verweis -->
-
+Ein bloßer Verweis
+-->
 
 ## Wie wir zitieren {#zitierenwiezitieren}
 Es gibt eine ganze Reihe unterschiedlicher Zitierweisen, von denen hier exemplarisch nur eine kleine Auswahl prominenter Vertreter vorgestellt werden soll. Grob lässt sich unterscheiden zwischen solchen, die in Klammern zitieren, und solchen, die in Fuß- oder Endnoten zitieren. Das [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) (CMOS) beispielsweise bietet Vorgaben für beide Varianten an. Die [Modern Language Association](https://www.mla.org/MLA-Style) oder die [American Psychology Association](https://apastyle.apa.org/) fokussieren sich auf das Zitieren in Klammern. Werfen wir im Folgenden der Reihe nach einen genaueren Blick auf diese Auswahl.
