@@ -62,3 +62,4 @@ beitrag-in-einem-sammelband
 sammelband-oder-andere-herausgabe
 zitieren-mit-klammern
 monographie-1
+zitierendirekt
