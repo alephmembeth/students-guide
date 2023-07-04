@@ -63,3 +63,5 @@ sammelband-oder-andere-herausgabe
 zitieren-mit-klammern
 monographie-1
 zitierendirekt
+zitierenindirekt
+zitierenverweis

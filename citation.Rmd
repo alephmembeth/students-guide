@@ -41,19 +41,27 @@ Von dieser Pflicht zur zeichengetreuen Wiedergabe gibt es eine Ausnahme: Wenn im
 
 Finden sich an einer Stelle, die man wörtlich zitiert, Hervorhebungen, beispielsweise durch Fettdruck, Kursivierung, Kapitälchen oder Unterstreichung, werden diese in der Regel auch übernommen, können aber an den eigenen Stil angepasst werden. Oft findet man an solchen Stellen einen Hinweis wie »Hervorh. i.O.« (»Hervorhebung im Original«). Das kann dann beispielsweise so aussehen:
 
-> Als vierte Forderung führt Marquard an: »Man muß -- gerade auch gegenwärtig -- ablassen vom _Unsinn der Bindung der Lebensbejahung an den absoluten Sinnbeweis_« [@marquard_diaetetik_1987, S. 52; Hervorh. i.O.].
+> Als vierte Forderung führt Marquard an: »Man muß -- gerade auch gegenwärtig -- ablassen vom _Unsinn der Bindung der Lebensbejahung an den absoluten Sinnbeweis_« [@marquard_diaetetik_1987, S. 52, Hervorh. i.O.].
 
 Es kann auch vorkommen, das man selbst etwas innerhalb eines Zitats hervorheben möchte. In diesem Fall bringt man einen ähnlichen Hinweis an, oft unter Verwendung der eigenen Initialen. Das kann dann beispielsweise so aussehen:
 
-> Wobei Marquard auf drastische Formulierungen zurückgreift, etwas wenn er schreibt: »Sie antworten auf das _Trauma_ des hermeneutischen _Bürgerkriegs_« [@marquard_unvermeidlichkeit_1987, S. 109; Hervorh. A.M.B.].
+> Wobei Marquard auf drastische Formulierungen zurückgreift, etwas wenn er schreibt: »Sie antworten auf das _Trauma_ des hermeneutischen _Bürgerkriegs_« [@marquard_unvermeidlichkeit_1987, S. 109, Hervorh. A.M.B.].
 
-<!--
-Auslassungen, Anpassungen oder Anmerkungen bei direkten Zitatten
+Möchte man in einem wörtlichen Zitat Auslassungen, Anpassungen oder Anmerkungen vornehmen, lässt sich das durch die Verwendung eckiger Klammern kenntlich machen. Eine Auslassung kann dann beispielsweise so aussehen:
 
+> »Die klassische Definition der Universalgeschichte [...] hat genau das, meine ich, übersehen« [@marquard_universalgeschichte_1987, S. 70].
+
+Anpassung und Anmerkung können beispielsweise so aussehen:
+
+> Marquard spricht von einer »wissenschaftlich betriebene[n] Form der Polymythie [dem Gegenteil der Monomythie]« [@marquard_universalgeschichte_1987, S. 71].
+
+
+### Das indirekte Zitat {#zitierenindirekt}
 Bei einem indirekten Zitat gibt man etwas paraphrasiert wieder...
 
-Ein bloßer Verweis...
--->
+
+### Der Verweis {#zitierenverweis}
+Bei einem Verweis...
 
 
 ## Wie wir zitieren {#zitierenwie}
