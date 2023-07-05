@@ -57,8 +57,9 @@ Anpassung und Anmerkung können beispielsweise so aussehen:
 
 
 ### Das indirekte Zitat {#zitierenindirekt}
-Bei einem indirekten Zitat gibt man etwas paraphrasiert wieder...
+Bei einem indirekten Zitat gibt man etwas _paraphrasiert_ wieder. Während sich ein direktes Zitat auch setzen lässt, ohne dessen Inhalt vollständig verstanden zu haben, setzt eine gelungene Paraphrase voraus, dass man den Inhalt hinreichend gut durchdrungen hat, um ihn adäquat in eigene Worte übersetzen zu können. Ähnlich wie bei einem direkten Zitat weist man auch bei einem indirekten Zitat darauf hin, wo in einem Text sich die fragliche Stelle befindet. Das kann dann zum Beispiel so aussehen
 
+> 
 
 ### Der Verweis {#zitierenverweis}
 Bei einem Verweis...
