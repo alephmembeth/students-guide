@@ -57,23 +57,29 @@ Anpassung und Anmerkung können beispielsweise so aussehen:
 
 
 ### Das indirekte Zitat {#zitierenindirekt}
-Bei einem indirekten Zitat gibt man etwas _paraphrasiert_ wieder. Während sich ein direktes Zitat auch setzen lässt, ohne dessen Inhalt vollständig verstanden zu haben, setzt eine gelungene Paraphrase voraus, dass man den Inhalt hinreichend gut durchdrungen hat, um ihn adäquat in eigene Worte übersetzen zu können. Ähnlich wie bei einem direkten Zitat weist man auch bei einem indirekten Zitat darauf hin, wo in einem Text sich die fragliche Stelle befindet. Das kann dann zum Beispiel so aussehen
+Bei einem indirekten Zitat gibt man etwas _paraphrasiert_ wieder. Während sich ein direktes Zitat -- wovon natürlich tunlichst abzuraten ist -- auch setzen lässt, ohne dessen Inhalt vollständig verstanden zu haben, setzt eine gelungene Paraphrase voraus, dass man den Inhalt hinreichend gut durchdrungen hat, um ihn adäquat in eigene Worte übersetzen zu können. Ähnlich wie bei einem direkten Zitat weist man auch bei einem indirekten Zitat darauf hin, wo in einem Text sich die fragliche Stelle befindet. Anders als beim direkten Zitat weist bei einem indirekten Zitat oft das Kürzel »vgl.« (»vergleiche«) auf die sinngemäße Übernahme hin. Das kann dann zum Beispiel so aussehen:
 
-> 
+> Dem Menschen in der modernen Gesellschaft attestiert Marquard einen Hang dazu, Fortschritten, die ihm von etwas Negativem entlasten, anschließend selbst Negativität zuzuschreiben [vgl. @marquard_zeitalter_1987, S. 87--92].
+
 
 ### Der Verweis {#zitierenverweis}
-Bei einem Verweis...
+Nicht immer bezieht man sich auf eine spezifische Stelle in einem Text. Wenn man auf einen Text im Ganzen hinweisen möchte, lässt sich das durch einen Verweis machen. 
+
+
+### Weitere Besonderheiten {#zitierenweiteres}
+
 
 
 ## Wie wir zitieren {#zitierenwie}
-Es gibt eine ganze Reihe unterschiedlicher Zitierweisen, von denen hier exemplarisch nur eine kleine Auswahl prominenter Vertreter vorgestellt werden soll. Grob lässt sich unterscheiden zwischen solchen, die in Klammern zitieren, und solchen, die in Fuß- oder Endnoten zitieren. Das [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) (CMOS) beispielsweise bietet Vorgaben für beide Varianten an. Die [Modern Language Association](https://www.mla.org/MLA-Style) oder die [American Psychology Association](https://apastyle.apa.org/) fokussieren sich auf das Zitieren in Klammern. Werfen wir im Folgenden der Reihe nach einen genaueren Blick auf diese Auswahl.
+Es gibt eine ganze Reihe unterschiedlicher Zitierweisen, von denen hier exemplarisch nur ein prominenter Vertreter vorgestellt werden soll. Grob lässt sich unterscheiden zwischen solchen, die in Klammern zitieren, und solchen, die in Fuß- oder Endnoten zitieren. Das [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) (CMOS) bietet Vorgaben für beide Varianten an.
+
+Die [Modern Language Association](https://www.mla.org/MLA-Style) oder die [American Psychology Association](https://apastyle.apa.org/) fokussieren sich auf das Zitieren in Klammern. Werfen wir im Folgenden der Reihe nach einen genaueren Blick auf diese Auswahl.
 
 
-### Chicago Manual of Style (CMOS)
 Seit 1906 erscheint bei der University of Chicago Press das _Chicago Manual of Style_ (CMOS), ein umfangreicher Styleguide für Amerikanisches Englisch, dessen 17. Auflage im Jahr 2017 erschienen ist.^[Vgl. The University of Chicago Press Editorial Staff (2017): _The Chicago Manual of Style. The Essential Guide for Writers, Editors, and Publishers_. 17. Auflage. Chicago und London: The University of Chicago Press.] Das Buch gliedert sich in drei Teile. Während sich der erste Teil verschiedenen Aspekten des Publikationsprozesses widmet, beleuchtet der zweite Teil unter anderem sprachliche und stilistische Aspekte. Der dritte Teil schließlich nimmt das Zitieren in den Blick. Wie oben angemerkt, liefert das CMOS sowohl Vorgaben für das Zitieren mit Fuß- oder Endnoten wie auch für das Zitieren mit Klammern. Im nächsten Abschnitt schauen wir uns zunächst die Variante mit Fuß- oder Endnoten an, im darauffolgenden Abschnitt dann die Variante mit Klammern.
 
 
-#### Zitieren mit Fuß- oder Endnoten
+### Zitieren mit Fuß- oder Endnoten
 Beim Zitieren mit Fuß- oder Endnoten wird an derjenigen Stelle im Text, an der man auf eine Quelle verweisen möchte, eine hochgestellte Zahl gesetzt. Am Ende der Seite (im Fall von Fußnoten) oder am Ende des Textes (im Fall von Endnoten) taucht diese Zahl dann wieder auf, gefolgt von der Quellenangabe. Im Folgenden beschränken wir uns bei Erklärungen und Beispielen der Einfachheit halber auf Fußnoten; der Unterschied zu Endnoten besteht praktisch nur darin, wo die Quellenangaben plaziert werden, also am Seiten- oder am Textende.
 
 Wird eine Quelle das erste Mal in einem Text genannt, beinhaltet die Fußnote eine vollständige Quellenangabe. Wird an späterer Stelle im Text erneut auf diese Quelle verwiesen, taucht in der entsprechenden Fußnote nur noch eine Kurzfassung der Quellenangabe auf. Die Fußnoten eines Textes sind fortlaufend nummeriert und starten mit einer 1. Am Ende des Textes listet ein Literaturverzeichnis die einzelnen Quellen auf.
