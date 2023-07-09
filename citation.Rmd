@@ -31,7 +31,8 @@ Wenn man den Wortlaut einer Quelle besonders treffend findet oder wenn er für d
 
 Wörtliche Zitate werden buchstaben- und zeichengetreu wiedergegeben, das heißt, dass orthographische oder interpunktionsbezogene Eigenheiten -- auch Fehler -- beibehalten werden. Möchte man darauf hinweisen, dass eine solche Eigenheit aus dem Original stammt und sich nicht durch falsches Zitieren eingeschlichten hat, kann man hinter der betreffenden Stelle den Hinweis »sic« (»sic erat scriptum«, »so stand es geschrieben«) anbringen. Das kann dann beispielsweise so aussehen:
 
-> »Then a distribution is just if the ratio between what the persons receives [sic] and what they should receive is the same for all of them« [@siebel_need-based_2020, S. 39].
+> »Das aber wäre -- umkompensiert [sic] -- ein menschlich unaushaltbarer Verlust, weil zunehmend der lebensweltliche Bedarf der Menschen nicht mehr gedeckt wäre, in einer farbigen, vertrauten und sinnvollen Welt zu leben« [@marquard_unvermeidlichkeit_1987, S. 104].
+<!-- »Es ist also -- als Freiheitswirkung -- zuträglich für den Menschen, viele ( mehrere) [sic] Überzeugungen zu haben« [@marquard_apologie_1987, S. 133] -->
 
 Von dieser Pflicht zur zeichengetreuen Wiedergabe gibt es eine Ausnahme: Wenn im Zitat selbst Anführungszeichen enthalten sind, werden diese an den eigenen Stil angepasst, man mischt also nicht verschiedene typographische Arten von Anführungszeichen. Steht das Zitat in Anführungszeichen, wandelt man die im Zitat selbst enthaltenen Anführungszeichen außerdem in halbe Anführungszeichen um. Das kann dann beispielsweise so aussehen:
 
@@ -63,7 +64,9 @@ Bei einem indirekten Zitat gibt man etwas _paraphrasiert_ wieder. Während sich 
 
 
 ### Der Verweis {#zitierenverweis}
-Nicht immer bezieht man sich auf eine spezifische Stelle in einem Text. Wenn man auf einen Text im Ganzen hinweisen möchte, lässt sich das durch einen Verweis machen. 
+Nicht immer bezieht man sich auf eine spezifische Stelle in einem Text. Wenn man auf einen Text im Ganzen hinweisen möchte, lässt sich das durch einen Verweis machen. Das kann dann zum Beispiel so aussehen:
+
+> Zur Rolle des Zufälligen für das menschliche Leben siehe @marquard_apologie_1987.
 
 
 ### Weitere Besonderheiten {#zitierenweiteres}
