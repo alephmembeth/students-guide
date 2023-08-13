@@ -69,18 +69,6 @@ Nicht immer bezieht man sich auf eine spezifische Stelle in einem Text. Wenn man
 > Zur Rolle des Zufälligen für das menschliche Leben siehe @marquard_apologie_1987.
 
 
-### Weitere Besonderheiten {#zitierenweiteres}
-Es gibt einige Feinheiten, auf die beim Zitieren außerdem zu achten ist.
-
-<!--
-- Viele Autor\*innen (»et al.«)
-- Sekundärzitate (»zit. n.«)
-- Unterschiedliche Quellen mit gleichen Autor\*innen und Jahr (»a«, »b«)
-- Gleiche Nachnamen
-- Quellen ohne Verfasser\*in (»o. V.«), Jahr (»o. J.«), Seitenangabe (»o. S.«)
--->
-
-
 ## Wie wir zitieren {#zitierenwie}
 Es gibt eine ganze Reihe unterschiedlicher Zitierweisen, von denen hier exemplarisch nur ein prominenter Vertreter vorgestellt werden soll. Grob lässt sich unterscheiden zwischen solchen, die in Klammern zitieren, und solchen, die in Fuß- oder Endnoten zitieren. Das [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) (CMOS) bietet Vorgaben für beide Varianten an.
 
@@ -98,7 +86,7 @@ Wird eine Quelle das erste Mal in einem Text genannt, beinhaltet die Fußnote ei
 Nachfolgend geben wir für die gängigen Arten von Quellen an, wie eine vollständige Quellenangabe, deren Kurzfassung sowie der entsprechende Eintrag im Literaturverzeichnis -- leicht angepasst für den deutschen Sprachraum^[Diese Anpassung betreffen Übersetzung (»Nr.« statt »No.«, ) sowie Interpunktion (Interpunktionszeichen außerhalb statt innerhalb von Anführungen, Wegfall des Oxford-Kommas).] -- nach dem CMOS aussehen kann.^[Vgl. The University of Chicago Press Editorial Staff, _The Chicago Manual of Style_. Kap. 14.]
 
 
-##### Monographie
+#### Monographie
 Vollständige Quellenangabe:
 
 > 1. Alex Reinhart, _Statistics Done Wrong: Statistik richtig anwenden und gängige Fehler vermeiden_ (Frechen: mitp, 2016), 29.
@@ -116,7 +104,7 @@ Literaturverzeichnis:
 > Sytsma, Justin, und Jonathan Livengood. _The Theory and Practice of Experimental Philosophy_. Peterborough: Broadview, 2016.
 
 
-##### Sammelband oder andere Herausgabe
+#### Sammelband oder andere Herausgabe
 Vollständige Quellenangabe:
 
 > 1. Stefan Traub und Bernhard Kittel, Hrsg., _Need-Based Distributive Justice: An Interdisciplinary Perspective_ (Cham: Springer, 2020).
@@ -146,7 +134,7 @@ Literaturverzeichnis:
 > Siebel, Mark, und Thomas Schramme. »Need-Based Justice from the Perspective of Philosophy«. In _Need-Based Distributive Justice: An Interdisciplinary Perspective:, herausgegeben von Stefan Traub and Bernhard Kittel, 21--58. Cham: Springer, 2020.
 
 
-##### Übersetztes Buch
+#### Übersetztes Buch
 Es wird immer mal wieder vorkommen, dass wir auf ein Buch stoßen, dessen Originalsprache wir nicht beherrschen. In diesem Fall kommen wir nicht um Übersetzungen herum, wenn das Buch für unsere Arbeit relevant ist und die Zeit für ein umfassendes Fremdsprachenstudium fehlt. Aber auch, wenn wir das Original zu lesen im Stande sind, kann der Blick in eine Übersetzung spannend oder hilfreich sein. Zitiert man solch eine übersetzte Fassung, dann gibt man auch an, wer die Übersetzung besorgt hat.
 
 Vollständige Quellenangabe:
@@ -162,37 +150,27 @@ Literaturverzeichnis:
 > Miller, David. _Grundsätze sozialer Gerechtigkeit_. Übersetzt von Ulrike Berger. Frankfurt: Campus, 2008.
 
 
-##### Artikel in einer Fachzeitschrift
+#### Artikel in einer Fachzeitschrift
 Bei Artikeln aus Fachzeitschriften, den im Forschungsalltag wahrscheinlich wichtigsten und am häufigsten genutzten Quellen, sieht das CMOS vor, dass Seitenzahlen in Fußnoten nur aufgenommen werden, wenn Sie auf eine spezifische Stelle hinweisen, etwa im Zuge eines Zitats (Beispiel 1). Die Seitenspanne, also von welcher bis zu welcher Seite ein Artikel in einer Fachzeitschrift reicht, wird nur im Literaturverzeichnis genannt. Bei Artikeln, die online abgerufen wurden, sieht das CMOS vor, URL oder DOI anzugeben (Beispiel 2), wobei DOI der URL vorzuziehen ist.
-
-Hat ein Artikel vier bis zehn Autor\*innen, wird in der Fußnote nur die erste Person genannt (Beispiel 3), während im Literaturverzeichnis auch die restlichen aufgeführt werden. Wenn ein Artikel elf oder mehr Autor\*innen hat, wird genauso verfahren, aber im Literaturverzeichnis werden nur die ersten sieben namentlich erwähnt (Beispiel 4).
 
 Vollständige Quellenangabe:
 
 > 1. Joshua Knobe, »Intentional Action and Side Effects in Ordinary Language«, _Analysis_ 63, Nr. 3 (Juli 2003): 192.
 > 2. Jonathan Livengood und Justin Sytsma, »Actual Causation and Compositionality«, _Philosophy of Science_ 87, Nr. 1 (Januar 2020), https://doi.org/10.1086/706085.
-> 3. Luke Buckland et al., »Testing the Motivational Strength of Positive and Negative Duty Arguments Regarding Global Poverty”, _Review of Philosophy and Psychology_ 13, Nr. 3 (Mai 2021): 707, https://doi.org/10.1007/s13164-021-00555-4.
-> 4. Florian Cova et al., »Estimating the Reproducibility of Experimental Philosophy”, _Review of Philosophy and Psychology_ 12, Nr. 1 (März 2021), https://doi.org/10.1007/s13164-018-0400-9.
 
 Gekürzte Quellenangabe:
 
 > 5. Joshua Knobe, »Intentional Action«.
 > 6. Livengood und Sytsma, »Actual Causation«.
-> 7. Buckland et al., »Testing the Motivational Strength«.
-> 8. Cova et al., »Estimating the Reproducibility«.
 
 Literaturverzeichnis:
 
-> Buckland, Luke, Matthew Lindauer, David Rodríguez-Arias und Carissa Véliz. »Testing the Motivational Strength of Positive and Negative Duty Arguments Regarding Global Poverty”. _Review of Philosophy and Psychology_ 13, Nr. 3 (Mai 2021): 463--73. https://doi.org/10.1007/s13164-021-00555-4.
->
-> Cova, Florian, Brent Strickland, Angela Abatista, Aurélien Allard, James Andow, Mario Attie, James Beebe et al. »Estimating the Reproducibility of Experimental Philosophy”. _Review of Philosophy and Psychology_ 12, Nr. 1 (März 2021): 9--44. https://doi.org/10.1007/s13164-018-0400-9.
->
 > Knobe, Joshua. »Intentional Action and Side Effects in Ordinary Language«. _Analysis_ 63, Nr. 3 (Juli 2003): 190--94.
 >
 > Livengood, Jonathan, und Justin Sytsma. »Actual Causation and Compositionality«. _Philosophy of Science_ 87, Nr. 1 (Januar 2020): 43--69. https://doi.org/10.1086/706085.
 
 
-##### Artikel in einer populären Zeitung oder Zeitschrift
+#### Artikel in einer populären Zeitung oder Zeitschrift
 Bei Artikeln aus Zeitungen und Zeitschriften können die Seitenzahlen in der Fußnote genannt werden, fallen aber bei der Angabe im Literaturverzeichnis fort (Beispiel 1). Bezieht man sich auf die Online-Fassung eines Artikels, wird die URL mit angegeben (Beispiel 2).
 
 Vollständige Quellenangabe:
@@ -212,7 +190,7 @@ Literaturverzeichnis:
 > Stephan, Björn. »Wer ist eigentlich meine verrückte Nachbarin?«. _Zeit Online_, 16. Februar 2017, https://www.zeit.de/2017/08/hamburg-st-pauli-eva-nachbarin-barbara-bar.
 
 
-##### Buchbesprechung
+#### Buchbesprechung
 Neu erschienene Bücher werden immer wieder auch in populären Medien, etwa in überregionalen Zeitungen, besprochen. Solche Rezensionen lassen sich wie folgt zitieren.
 
 Vollständige Quellenangabe:
@@ -228,7 +206,7 @@ Literaturverzeichnis:
 > Schuh, Franz. »Zerstört Bankkonten! Christian Neuhäuser philosophiert über Reichtum«. Rezension zu _Wie reich darf man sein?_ von Christian Neuhäuser. _Die Zeit_, 22. August 2019. <!-- Ausgabe 35/2019, S. 38, https://www.zeit.de/2019/35/wie-reich-darf-man-sein-christian-neuhaeuser-reichtum -->
 
 
-##### Interview
+#### Interview
 Interviews, etwa im Rahmen einer Radiosendung oder eines Podcasts, können wie folgt zitiert werden.
 
 Vollständige Quellenangabe:
@@ -244,7 +222,7 @@ Literaturverzeichnis:
 > Schubarth, Marina. »Molotowcocktails statt Proben«. Interview von Susanne Burkhardt. _Rang 1_, Deutschlandfunk Kultur, 5. März 2022. Audio, 3:40. https://www.deutschlandfunkkultur.de/ukrainische-theatermacher-im-krieg-100.html.
 
 
-##### Dissertation oder Abschlussarbeit
+#### Dissertation oder Abschlussarbeit
 Dissertationen oder Abschlussarbeiten werden von der Hochschule, an der sie verfasst worden sind, archiviert. Wenn sie außerdem als Monographie bei einem Verlag publiziert werden, lässt sich diese verlegte Fassung zitieren. Liegt nur die von der Hochschule archivierte Fassung vor, sei es gedruckt oder online, kann wie folgt auf sie verwiesen werden.
 
 Vollständige Quellenangabe:
@@ -260,7 +238,7 @@ Literaturverzeichnis:
 > Wyszynski, Marc. »Der Einfluss von Framing, Medienpriming, Vorurteilen und Debiasing auf die Bewertung eines Betrugs an der Solidargemeinschaft«. Dissertation, Jacobs University Bremen, 2020.
 
 
-##### Inhalte auf Websites
+#### Inhalte auf Websites
 Möchte man an einer Stelle im Text auf eine Website verweisen, kann das wie folgt geschehen. Ist auf der Website angegeben, wann sie veröffentlicht oder das letzte Mal aktualisiert wurde, kann dieses Datum in die Quellenangabe übernommen werden (Beispiel 1), andernfalls wird das Abrufdatum genannt (Beispiel 2).
 
 Vollständige Quellenangabe:
@@ -284,7 +262,7 @@ Literaturverzeichnis:
 > Mizumoto, Masaharu. »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«. The New Experimental Philosophy Blog. Veröffentlicht am 14. Oktober 2022. https://xphiblog.com/a-prolegomenon-to-the-empirical-cross-linguistic-study-of-truth/.
 
 
-##### Inhalt in Sozialen Netzwerken
+#### Inhalt in Sozialen Netzwerken
 Wenn man -- etwa zur Illustration eines Punktes -- auf etwas verweisen möchte, das eine Person in einem Sozialen Netzwerk geäußert hat, gibt es im Regelfall keinen Titel, den man für die Quellenangabe heranziehen kann. Das CMOS schlägt vor, stattdessen die ersten bis zu 160 Zeichen des Beitrags zu verwenden. Eine Aufnahme in das Literaturverzeichnis folgt für gewöhnlich nicht.
 
 Vollständige Quellenangabe:
@@ -296,7 +274,7 @@ Gekürzte Quellenangabe:
 > 2. Trump, »Sorry losers and haters«.
 
 
-##### Persönliche Korrespondenz
+#### Persönliche Korrespondenz
 Beruft man sich an einer Stelle im Text auf die eigene Korrespondenz mit einer anderen Person, kann man darauf wie folgt in einer Fußnote hinweisen. In das Literaturverzeichnis wird so etwas in der Regel nicht aufgenommen.
 
 Vollständige Quellenangabe:
@@ -304,7 +282,7 @@ Vollständige Quellenangabe:
 > 1. Guillermina Jasso, E-Mail an den Autor, 23. Mai 2020.
 
 
-##### Kommentar
+#### Kommentar
 Kommentare, zum Beispiel unter Videos auf YouTube (Beispiel 2), unter Beiträgen auf einem Blog oder unter Online-Artikeln einer Zeitung (Beispiel 4), Antworten auf Tweets (Beispiel 6) und ähnliches werden in Bezug auf die Kommentierte Quelle (Beispiele 1, 3 und 5) zitiert. Sie werden in aller Regel nicht in das Literaturverzeichnis aufgenommen.
 
 Manchmal ist nicht auf den ersten Blick ersichtlich, wann ein Kommentar verfasst wurde. Bei YouTube lässt sich das noch rekonstruierten, wenn der Kommentar erst wenige Tage alt ist und neben dem Nutzernamen beispielsweise »vor 2 Tagen« angezeigt wird. Bei längeren Zeiträumen, wenn etwa nur noch »vor 2 Jahren« neben dem Nutzernamen steht, werden diese Angaben allerdings unscharf und eine Rekonstruktion ist nicht mehr durch einfaches Rückrechnen möglich. Die genauen Daten liegen im Hintergrund aber nichtsdestotrotz vor und es gibt Möglichkeiten, sie sichtbar zu machen.^[Für Kommentare bei YouTube ermöglicht das zum Beispiel die Website https://hadzy.com/.]
@@ -319,10 +297,40 @@ Vollständige Quellenangabe:
 > 6. Joyce Carol Oates (\@JoyceCarolOates), 8. November 2016, 20:24 Uhr, Kommentar zu Trump, »Sorry losers and haters«.
 
 
-#### Zitieren mit Klammern
+#### Besonderheiten {#zitierenweiteres}
+Es gibt einige Feinheiten, auf die beim Zitieren außerdem zu achten ist.
+
+##### Mehrere Autor\*innen
+Hat ein Artikel vier bis zehn Autor\*innen, sieht das CMOS vor, dass in der Fußnote nur die erste Person genannt wird (Beispiel 1), während im Literaturverzeichnis auch die restlichen aufgeführt werden. Wenn ein Artikel elf oder mehr Autor\*innen hat, wird genauso verfahren, aber im Literaturverzeichnis werden nur die ersten sieben namentlich erwähnt (Beispiel 2). Hinter dem ersten (sowie für den zweiten Fall im Literaturverzeichnis hinter dem siebten) Namen weist ein »et al.« (»et alia«, »und andere«) darauf hin, dass an dieser Stelle weitere Namen entfallen sind.
+
+Vollständige Quellenangabe:
+
+> 1. Luke Buckland et al., »Testing the Motivational Strength of Positive and Negative Duty Arguments Regarding Global Poverty”, _Review of Philosophy and Psychology_ 13, Nr. 3 (Mai 2021): 707, https://doi.org/10.1007/s13164-021-00555-4.
+> 2. Florian Cova et al., »Estimating the Reproducibility of Experimental Philosophy”, _Review of Philosophy and Psychology_ 12, Nr. 1 (März 2021), https://doi.org/10.1007/s13164-018-0400-9.
+
+Gekürzte Quellenangabe:
+
+> 2. Buckland et al., »Testing the Motivational Strength«.
+> 4. Cova et al., »Estimating the Reproducibility«.
+
+Literaturverzeichnis:
+
+> Buckland, Luke, Matthew Lindauer, David Rodríguez-Arias und Carissa Véliz. »Testing the Motivational Strength of Positive and Negative Duty Arguments Regarding Global Poverty”. _Review of Philosophy and Psychology_ 13, Nr. 3 (Mai 2021): 463--73. https://doi.org/10.1007/s13164-021-00555-4.
+>
+> Cova, Florian, Brent Strickland, Angela Abatista, Aurélien Allard, James Andow, Mario Attie, James Beebe et al. »Estimating the Reproducibility of Experimental Philosophy”. _Review of Philosophy and Psychology_ 12, Nr. 1 (März 2021): 9--44. https://doi.org/10.1007/s13164-018-0400-9.
+
+<!--
+- Sekundärzitate (»zit. n.«)
+- Unterschiedliche Quellen mit gleichen Autor\*innen und Jahr (»a«, »b«)
+- Gleiche Nachnamen
+- Quellen ohne Verfasser\*in (»o. V.«), Jahr (»o. J.«), Seitenangabe (»o. S.«)
+-->
 
 
-##### Monographie
+### Zitieren mit Klammern
+
+
+#### Monographie
 Quellenangabe:
 
 > (Reinhart 2016, 29)
@@ -335,8 +343,3 @@ Literaturverzeichnis:
 >
 > Sytsma, Justin, und Jonathan Livengood. _The Theory and Practice of Experimental Philosophy_. Peterborough: Broadview, 2016.
 
-
-### Modern Language Association (MLA)
-
-
-### American Psychology Association (APA)

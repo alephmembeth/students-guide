@@ -66,3 +66,4 @@ zitierendirekt
 zitierenindirekt
 zitierenverweis
 zitierenweiteres
+mehrere-autorinnen
