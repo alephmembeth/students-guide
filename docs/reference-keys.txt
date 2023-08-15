@@ -67,3 +67,4 @@ zitierenindirekt
 zitierenverweis
 zitierenweiteres
 mehrere-autorinnen
+sekundärzitate

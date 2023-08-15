@@ -300,6 +300,7 @@ Vollständige Quellenangabe:
 #### Besonderheiten {#zitierenweiteres}
 Es gibt einige Feinheiten, auf die beim Zitieren außerdem zu achten ist.
 
+
 ##### Mehrere Autor\*innen
 Hat ein Artikel vier bis zehn Autor\*innen, sieht das CMOS vor, dass in der Fußnote nur die erste Person genannt wird (Beispiel 1), während im Literaturverzeichnis auch die restlichen aufgeführt werden. Wenn ein Artikel elf oder mehr Autor\*innen hat, wird genauso verfahren, aber im Literaturverzeichnis werden nur die ersten sieben namentlich erwähnt (Beispiel 2). Hinter dem ersten (sowie für den zweiten Fall im Literaturverzeichnis hinter dem siebten) Namen weist ein »et al.« (»et alia«, »und andere«) darauf hin, dass an dieser Stelle weitere Namen entfallen sind.
 
@@ -319,8 +320,11 @@ Literaturverzeichnis:
 >
 > Cova, Florian, Brent Strickland, Angela Abatista, Aurélien Allard, James Andow, Mario Attie, James Beebe et al. »Estimating the Reproducibility of Experimental Philosophy”. _Review of Philosophy and Psychology_ 12, Nr. 1 (März 2021): 9--44. https://doi.org/10.1007/s13164-018-0400-9.
 
+
+##### Sekundärzitate
+Es kann vorkommen, dass...
+
 <!--
-- Sekundärzitate (»zit. n.«)
 - Unterschiedliche Quellen mit gleichen Autor\*innen und Jahr (»a«, »b«)
 - Gleiche Nachnamen
 - Quellen ohne Verfasser\*in (»o. V.«), Jahr (»o. J.«), Seitenangabe (»o. S.«)
