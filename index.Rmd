@@ -1,7 +1,7 @@
 ---
 title: "Einführung in das wissenschaftliche Arbeiten"
 author: "Alexander Max Bauer"
-date: "Juli 2023"
+date: "Dezember 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
