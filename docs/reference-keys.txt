@@ -68,3 +68,5 @@ zitierenverweis
 zitierenweiteres
 mehrere-autorinnen
 sekundärzitate
+zitierenwiefussnoten
+zitierenwieklammern
