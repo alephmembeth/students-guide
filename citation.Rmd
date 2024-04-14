@@ -120,7 +120,7 @@ Bei Beiträgen aus Sammelbänden werden Seitenzahlen nur dann in Fußnoten aufge
 
 Vollständige Quellenangabe:
 
-> 1. Mark Siebel und Thomas Schramme, »Need-Based Justice from the Perspective of Philosophy«, in _Need-Based Distributive Justice: An Interdisciplinary Perspective:, hrsg. Stefan Traub und Bernhard Kittel (Cham: Springer, 2020), 24.
+> 1. Mark Siebel und Thomas Schramme, »Need-Based Justice from the Perspective of Philosophy«, in _Need-Based Distributive Justice: An Interdisciplinary Perspective_, hrsg. Stefan Traub und Bernhard Kittel (Cham: Springer, 2020), 24.
 
 Gekürzte Quellenangabe:
 
@@ -128,7 +128,7 @@ Gekürzte Quellenangabe:
 
 Literaturverzeichnis:
 
-> Siebel, Mark, und Thomas Schramme. »Need-Based Justice from the Perspective of Philosophy«. In _Need-Based Distributive Justice: An Interdisciplinary Perspective:, herausgegeben von Stefan Traub and Bernhard Kittel, 21--58. Cham: Springer, 2020.
+> Siebel, Mark, und Thomas Schramme. »Need-Based Justice from the Perspective of Philosophy«. In _Need-Based Distributive Justice: An Interdisciplinary Perspective_, herausgegeben von Stefan Traub and Bernhard Kittel, 21--58. Cham: Springer, 2020.
 
 
 #### Übersetztes Buch
@@ -240,23 +240,23 @@ Möchte man an einer Stelle im Text auf eine Website verweisen, kann das wie fol
 
 Vollständige Quellenangabe:
 
-> 1. Masaharu Mizumoto, »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«, The New Experimental Philosophy Blog, veröffentlicht am 14. Oktober 2022, https://xphiblog.com/a-prolegomenon-to-the-empirical-cross-linguistic-study-of-truth/.
+> 1. Rodrigo Díaz, »Who Complies With Pandemic Health Recommendations?«, The Experimental Philosophy Blog, veröffentlicht am 5. März 2024, https://xphi.net/wordpress/2024/03/05/who-complies-with-pandemic-health-recommendations/.
 > 2. »Kennzahlen«, Google Scholar, abgerufen am 26. Juni 2023.
 > 3. Andrew Hasse, »Being 97«, YouTube, veröffentlicht am 14. Januar 2020, Video, 18:12, https://youtu.be/qX6NztnPU-4.
 
 Gekürzte Quellenangabe:
 
-> 4. Mizumoto, »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«.
+> 4. Díaz, »Who Complies With Pandemic Health Recommendations?«.
 > 5. Google, »Kennzahlen«.
 > 6. Hasse, »Being 97«.
 
 Literaturverzeichnis:
 
+> Díaz, Rodrigo »Who Complies With Pandemic Health Recommendations?«. The Experimental Philosophy Blog. Veröffentlicht am 5. März 2022. https://xphi.net/wordpress/2024/03/05/who-complies-with-pandemic-health-recommendations/.
+>
 > Google. »Kennzahlen«. Abgerufen am 26. Juni 2023. https://scholar.google.de/citations?view_op=metrics_intro.
 >
 > Hasse, Andrew. »Being 97«. YouTube. Veröffentlicht am 14. Januar 2020. Video, 18:12. https://youtu.be/qX6NztnPU-4.
->
-> Mizumoto, Masaharu. »A Prolegomenon to the Empirical Cross-Linguistic Study of Truth«. The New Experimental Philosophy Blog. Veröffentlicht am 14. Oktober 2022. https://xphiblog.com/a-prolegomenon-to-the-empirical-cross-linguistic-study-of-truth/.
 
 
 #### Inhalt in Sozialen Netzwerken
