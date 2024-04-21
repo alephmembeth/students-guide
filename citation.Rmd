@@ -319,7 +319,7 @@ Literaturverzeichnis:
 
 
 ##### Sekundärzitate
-Es kann vorkommen, dass...
+Es kann vorkommen, dass man keinen Zugang zu einer Quelle hat, auf die man in einem anderen Text gestoßen ist. Wenn die Originalquelle nicht gesichtet wurde, sollte man sich auch nicht direkt auf sie beziehen. In diesem Fall kann man sich aber zumindest indirekt auf sie beziehen, indem man angibt, über welchen anderen Text man darauf gestoßen ist. Davon sollte allerdings wirklich nur dann Gebrauch gemacht werden, wenn die Originalquelle nicht zu finden ist. In diesem Fall werden dann beide Quellen aufgeführt.
 
 <!--
 - Unterschiedliche Quellen mit gleichen Autor\*innen und Jahr (»a«, »b«)
